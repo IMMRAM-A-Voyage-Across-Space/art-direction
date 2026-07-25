@@ -1,5 +1,7 @@
 # IMMRAM — Faction Codex
 
+**Twelve causes. Six mythic isles.**
+
 *IMMRAM · Faction Codex · v1*
 
 > An immram-roguelite — HoMM3 economy, X-COM tactics. A clan-host sails the star-sea from isle to
@@ -99,26 +101,56 @@ Reserved signature T7 (v2):
 
 ### Commanders
 
-**Bríd, the Kindler** *(Tuatha Bláth)*
-:   Quote: *"We didn't break this plain to hand it back. Dig in."*
-:   Role: Entrenches and outlasts; spends ammunition like water in a drought.
-:   Passive: Recruits cost less.
-:   Active: Entrench — grant cover to all stacks for 1 round.
-:   Tree: Economy / defense.
+#### Bríd, the Kindler *(Tuatha Bláth)*
 
-**Medb, the Ledger-Queen** *(An Ard-Riail)*
-:   Quote: *"Sentiment is a supply problem. I have solved it."*
-:   Role: Wins by out-growing the enemy — fresh stacks faster than they fall.
-:   Passive: +weekly recruit growth.
-:   Active: Sleá Lugha — once/battle AoE.
-:   Tree: Logistics / firepower.
+Quote
+:   *"We didn't break this plain to hand it back. Dig in."*
 
-**Fergus, the Ironside** *(hardliner)*
-:   Quote: *"It held because I was on it."*
-:   Role: Stands in the front rank taking the retaliation; rallies the line.
-:   Passive: +retaliation & defense for melee.
-:   Active: Slógadh — +1 AP to one stack.
-:   Tree: Frontline combat.
+Role
+:   Entrenches and outlasts; spends ammunition like water in a drought.
+
+Passive
+:   Recruits cost less.
+
+Active
+:   Entrench — grant cover to all stacks for 1 round.
+
+Tree
+:   Economy / defense.
+
+#### Medb, the Ledger-Queen *(An Ard-Riail)*
+
+Quote
+:   *"Sentiment is a supply problem. I have solved it."*
+
+Role
+:   Wins by out-growing the enemy — fresh stacks faster than they fall.
+
+Passive
+:   +weekly recruit growth.
+
+Active
+:   Sleá Lugha — once/battle AoE.
+
+Tree
+:   Logistics / firepower.
+
+#### Fergus, the Ironside *(hardliner)*
+
+Quote
+:   *"It held because I was on it."*
+
+Role
+:   Stands in the front rank taking the retaliation; rallies the line.
+
+Passive
+:   +retaliation & defense for melee.
+
+Active
+:   Slógadh — +1 AP to one stack.
+
+Tree
+:   Frontline combat.
 
 ### Bays
 
@@ -195,26 +227,56 @@ Reserved signature T7 (v2):
 
 ### Commanders
 
-**Dian Cécht** *(Na Draoithe)*
-:   Quote: *"Nothing is lost here. It is only re-sung."*
-:   Role: Sings to keep the chorus whole; heals as a forest heals a burn.
-:   Passive: All stacks regen each round.
-:   Active: Bloom — full-heal + cleanse a stack.
-:   Tree: Sustain / biomass.
+#### Dian Cécht *(Na Draoithe)*
 
-**Miach, the Grafter** *(Na Beangáin)*
-:   Quote: *"Why inherit a body when you can author one?"*
-:   Role: Grows stronger from everything that dies near him.
-:   Passive: Kills grant the killer +Attack.
-:   Active: Infest — spread spore-DoT in an area.
-:   Tree: Mutation / aggression.
+Quote
+:   *"Nothing is lost here. It is only re-sung."*
 
-**Naomh Folamh, the Hollow Saint** *(zealot)*
-:   Quote: *"Be still. The bloom is coming for you, and it is patient."*
-:   Role: Leads a tide of sporelings; nearby enemies forget their orders.
-:   Passive: Enemies adjacent to you lose AP.
-:   Active: Awaken — summon a free Síolán stack.
-:   Tree: Swarm / control.
+Role
+:   Sings to keep the chorus whole; heals as a forest heals a burn.
+
+Passive
+:   All stacks regen each round.
+
+Active
+:   Bloom — full-heal + cleanse a stack.
+
+Tree
+:   Sustain / biomass.
+
+#### Miach, the Grafter *(Na Beangáin)*
+
+Quote
+:   *"Why inherit a body when you can author one?"*
+
+Role
+:   Grows stronger from everything that dies near him.
+
+Passive
+:   Kills grant the killer +Attack.
+
+Active
+:   Infest — spread spore-DoT in an area.
+
+Tree
+:   Mutation / aggression.
+
+#### Naomh Folamh, the Hollow Saint *(zealot)*
+
+Quote
+:   *"Be still. The bloom is coming for you, and it is patient."*
+
+Role
+:   Leads a tide of sporelings; nearby enemies forget their orders.
+
+Passive
+:   Enemies adjacent to you lose AP.
+
+Active
+:   Awaken — summon a free Síolán stack.
+
+Tree
+:   Swarm / control.
 
 ### Bays
 
@@ -291,26 +353,56 @@ Reserved signature T7 (v2):
 
 ### Commanders
 
-**Balor of the Evil Eye** *(Na Fomóiri)*
-:   Quote: *"Everything that dies on my sand pays rent."*
-:   Role: War chest swells off the dead; welds his mechs back mid-fight.
-:   Passive: +resources from kills.
-:   Active: Tobar Sláine — rebuild a mechanical stack.
-:   Tree: Economy / attrition.
+#### Balor of the Evil Eye *(Na Fomóiri)*
 
-**Bres, the Blighted** *(An Creimeadh)*
-:   Quote: *"All things return to rust. I merely keep the schedule."*
-:   Role: Eats the enemy's defenses away layer by layer, then it rains.
-:   Passive: Attacks shred enemy Defense.
-:   Active: Acid Rain — AoE corrosion + DoT.
-:   Tree: Corrosion / terror.
+Quote
+:   *"Everything that dies on my sand pays rent."*
 
-**Fáidh na Meirge, the Rust Prophet** *(warlord)*
-:   Quote: *"The desert doesn't count its dead. Neither do I. Surge."*
-:   Role: Conjures fresh waves out of the wreckage faster than they fall.
-:   Passive: Swarm units cheaper & larger.
-:   Active: Scrap Surge — summon a free Meirgín stack.
-:   Tree: Swarm / zealotry.
+Role
+:   War chest swells off the dead; welds his mechs back mid-fight.
+
+Passive
+:   +resources from kills.
+
+Active
+:   Tobar Sláine — rebuild a mechanical stack.
+
+Tree
+:   Economy / attrition.
+
+#### Bres, the Blighted *(An Creimeadh)*
+
+Quote
+:   *"All things return to rust. I merely keep the schedule."*
+
+Role
+:   Eats the enemy's defenses away layer by layer, then it rains.
+
+Passive
+:   Attacks shred enemy Defense.
+
+Active
+:   Acid Rain — AoE corrosion + DoT.
+
+Tree
+:   Corrosion / terror.
+
+#### Fáidh na Meirge, the Rust Prophet *(warlord)*
+
+Quote
+:   *"The desert doesn't count its dead. Neither do I. Surge."*
+
+Role
+:   Conjures fresh waves out of the wreckage faster than they fall.
+
+Passive
+:   Swarm units cheaper & larger.
+
+Active
+:   Scrap Surge — summon a free Meirgín stack.
+
+Tree
+:   Swarm / zealotry.
 
 ### Bays
 
@@ -386,26 +478,56 @@ Reserved signature T7 (v2):
 
 ### Commanders
 
-**Cathair, the Warden** *(Dún Seaca)*
-:   Quote: *"We do not take ground. We refuse to give it."*
-:   Role: Raises ice ramparts; a stack that plants its feet is nearly immovable.
-:   Passive: Stationary stacks gain Defense.
-:   Active: Frost Wall — raise an ice cover-barrier.
-:   Tree: Fortification / defense.
+#### Cathair, the Warden *(Dún Seaca)*
 
-**Scáthach, the Vanguard** *(An Díorma Oighir)*
-:   Quote: *"The cold is already inside your line. I just told it where to bite."*
-:   Role: Steals an enemy's turn out from under them; strikes and vanishes.
-:   Passive: Freezes cut enemy AP.
-:   Active: Cold Snap — skip an enemy stack's next turn.
-:   Tree: Ambush / control.
+Quote
+:   *"We do not take ground. We refuse to give it."*
 
-**An Doleáite, the Thawless** *(zealot)*
-:   Quote: *"Cold is a question. We stopped answering."*
-:   Role: Ignores enemy freeze; seals a whole field of ice against all but her own.
-:   Passive: Your stacks ignore enemy slow/control.
-:   Active: Deep Freeze — lock an area, denying movement.
-:   Tree: Endurance / control.
+Role
+:   Raises ice ramparts; a stack that plants its feet is nearly immovable.
+
+Passive
+:   Stationary stacks gain Defense.
+
+Active
+:   Frost Wall — raise an ice cover-barrier.
+
+Tree
+:   Fortification / defense.
+
+#### Scáthach, the Vanguard *(An Díorma Oighir)*
+
+Quote
+:   *"The cold is already inside your line. I just told it where to bite."*
+
+Role
+:   Steals an enemy's turn out from under them; strikes and vanishes.
+
+Passive
+:   Freezes cut enemy AP.
+
+Active
+:   Cold Snap — skip an enemy stack's next turn.
+
+Tree
+:   Ambush / control.
+
+#### An Doleáite, the Thawless *(zealot)*
+
+Quote
+:   *"Cold is a question. We stopped answering."*
+
+Role
+:   Ignores enemy freeze; seals a whole field of ice against all but her own.
+
+Passive
+:   Your stacks ignore enemy slow/control.
+
+Active
+:   Deep Freeze — lock an area, denying movement.
+
+Tree
+:   Endurance / control.
 
 ### Bays
 
@@ -481,26 +603,56 @@ Reserved signature T7 (v2):
 
 ### Commanders
 
-**Goibniu, the Forgemaster** *(Na Gaibhne)*
-:   Quote: *"Fire does not destroy iron. It teaches it shape."*
-:   Role: Reforges what shatters mid-battle; armors what survives.
-:   Passive: +Defense; cheaper heavy units.
-:   Active: Tobar Sláine — restore armor / heal a golem or mech.
-:   Tree: Armor / industry.
+#### Goibniu, the Forgemaster *(Na Gaibhne)*
 
-**Aodh, the Ashlord** *(Clann na Luaithe)*
-:   Quote: *"I am the spark that doesn't care what it lands on."*
-:   Role: Leaves the enemy alight and dwindling; fights hottest as it burns out of control.
-:   Passive: Attacks apply Burn.
-:   Active: Immolate — AoE fire burst anywhere.
-:   Tree: Burn / aggression.
+Quote
+:   *"Fire does not destroy iron. It teaches it shape."*
 
-**Naomh na Luaithe, the Cinder Saint** *(fire-cult)*
-:   Quote: *"Give the fire what it asks. It only ever asks for everything."*
-:   Role: Spends half a stack to make the other half burn twice as bright.
-:   Passive: Bonus damage below half HP.
-:   Active: Pyre — sacrifice part of a stack to massively buff its damage.
-:   Tree: Sacrifice / frenzy.
+Role
+:   Reforges what shatters mid-battle; armors what survives.
+
+Passive
+:   +Defense; cheaper heavy units.
+
+Active
+:   Tobar Sláine — restore armor / heal a golem or mech.
+
+Tree
+:   Armor / industry.
+
+#### Aodh, the Ashlord *(Clann na Luaithe)*
+
+Quote
+:   *"I am the spark that doesn't care what it lands on."*
+
+Role
+:   Leaves the enemy alight and dwindling; fights hottest as it burns out of control.
+
+Passive
+:   Attacks apply Burn.
+
+Active
+:   Immolate — AoE fire burst anywhere.
+
+Tree
+:   Burn / aggression.
+
+#### Naomh na Luaithe, the Cinder Saint *(fire-cult)*
+
+Quote
+:   *"Give the fire what it asks. It only ever asks for everything."*
+
+Role
+:   Spends half a stack to make the other half burn twice as bright.
+
+Passive
+:   Bonus damage below half HP.
+
+Active
+:   Pyre — sacrifice part of a stack to massively buff its damage.
+
+Tree
+:   Sacrifice / frenzy.
 
 ### Bays
 
@@ -579,26 +731,56 @@ Reserved signature T7 (v2):
 
 ### Commanders
 
-**Sreng, the Foreman** *(Cumann na Piocóide)*
-:   Quote: *"One drill breaks. Ten thousand don't stop."*
-:   Role: Floods the dust with bodies and machines; refuses, at scale, to lose.
-:   Passive: +mine output; cheaper drones.
-:   Active: Reinforce — summon a free Pollaire stack.
-:   Tree: Economy / swarm.
+#### Sreng, the Foreman *(Cumann na Piocóide)*
 
-**Tost, the Silent** *(An tOrd Tostach)*
-:   Quote: *"[no transmission]"*
-:   Role: Opens every battle gone from the enemy's sensors; marks a target for the Order's fire.
-:   Passive: Stacks start stealthed.
-:   Active: Mark — all your stacks deal bonus vs a target.
-:   Tree: Stealth / precision.
+Quote
+:   *"One drill breaks. Ten thousand don't stop."*
 
-**Díthreabhach an Fholúis, the Vacuum Hermit** *(savant)*
-:   Quote: *"Gravity is a suggestion. Distance is a habit. I have quit both."*
-:   Role: Flyers and drones move farther and see more than physics should allow.
-:   Passive: Flyers & drones gain Speed & Sight.
-:   Active: Low-G Leap — huge move + flank for one stack.
-:   Tree: Mobility / recon.
+Role
+:   Floods the dust with bodies and machines; refuses, at scale, to lose.
+
+Passive
+:   +mine output; cheaper drones.
+
+Active
+:   Reinforce — summon a free Pollaire stack.
+
+Tree
+:   Economy / swarm.
+
+#### Tost, the Silent *(An tOrd Tostach)*
+
+Quote
+:   *"[no transmission]"*
+
+Role
+:   Opens every battle gone from the enemy's sensors; marks a target for the Order's fire.
+
+Passive
+:   Stacks start stealthed.
+
+Active
+:   Mark — all your stacks deal bonus vs a target.
+
+Tree
+:   Stealth / precision.
+
+#### Díthreabhach an Fholúis, the Vacuum Hermit *(savant)*
+
+Quote
+:   *"Gravity is a suggestion. Distance is a habit. I have quit both."*
+
+Role
+:   Flyers and drones move farther and see more than physics should allow.
+
+Passive
+:   Flyers & drones gain Speed & Sight.
+
+Active
+:   Low-G Leap — huge move + flank for one stack.
+
+Tree
+:   Mobility / recon.
 
 ### Bays
 
