@@ -24,3 +24,20 @@
 /* Palette and faction ramp swatches. */
 .swatch { display: inline-block; width: 22px; height: 22px; border-radius: 4px;
           border: 1px solid rgba(255,255,255,.18); vertical-align: middle; }
+
+/* Hand-authored SVG illustration plates (reference/stained-glass). */
+svg.plate { width: 100%; height: auto; display: block; }
+
+/* Figure framing for illustration plates — must not affect .sprite-grid figures. */
+.md-typeset figure.plate-figure {
+  margin: 0;
+  background: var(--md-code-bg-color);
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.md-typeset figure.plate-figure figcaption {
+  padding: 10px 14px;
+  font-size: 13px;
+  color: var(--md-default-fg-color--light);
+}

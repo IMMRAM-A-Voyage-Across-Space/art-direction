@@ -5,7 +5,7 @@
 Art-direction reference · **Neon Reliquary** · Celtic × space-age · vector mockup only — ship
 hand-pixeled in Pixaki with engine-added gold bloom.
 
-<figure markdown>
+<figure markdown class="plate-figure">
 <svg width="0" height="0" style="position:absolute"><defs>
   <filter id="gold" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <filter id="neon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -30,7 +30,7 @@ own; feeds the two plates that follow.</figcaption>
 Commander-select, main menu, codex, results. Ornate: radial rosette, glowing gold knotwork
 leading, flat neon glass panes. Density high (static screens can carry it).
 
-<figure markdown>
+<figure markdown class="plate-figure">
 <svg class="plate" viewBox="0 0 260 330" xmlns="http://www.w3.org/2000/svg">
   <rect width="260" height="330" fill="#08060f"/><rect width="260" height="330" fill="url(#halo)"/>
   <path d="M40,315 L40,150 C40,72 96,34 130,34 C164,34 220,72 220,150 L220,315 Z" fill="#0d0a1a"/>
@@ -62,7 +62,7 @@ Four congruent right-triangle panels cover the void outside the rounded-diamond 
 Toned down: the **glass panes are the UI cells** — portrait · nameplate · vitals, one cell per
 resource / ability. Gameplay reads first.
 
-<figure markdown>
+<figure markdown class="plate-figure">
 <svg class="plate" viewBox="0 0 660 380" xmlns="http://www.w3.org/2000/svg">
   <rect width="660" height="380" fill="#0a0a16"/>
   <g fill="#242c48"><circle cx="330" cy="60" r="1.3"/><circle cx="470" cy="150" r="1.3"/><circle cx="200" cy="230" r="1.3"/><circle cx="330" cy="320" r="1.3"/><circle cx="150" cy="150" r="1.3"/><circle cx="510" cy="250" r="1.3"/></g>
