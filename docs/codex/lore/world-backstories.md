@@ -1,8 +1,8 @@
 # IMMRAM — World & Faction Backstories
 
 > Narrative lore for the six mythic isles and their twelve causes. Companion to the mechanical
-> `docs/superpowers/specs/2026-06-27-factions-design.md`. Tone and format follow the established
-> **Mag Mell** backstory in `art/commission2.html` (§3.0).
+> [faction codex](../factions.md). Tone and format follow the established **Mag Mell** backstory in
+> Commission #2 ([units & UI brief](../../briefs/units-ui.md), §3.0).
 >
 > IMMRAM is an **immram** — a voyage-tale in the old Irish way: a clan-host sailing the star-sea
 > from isle to mythic isle, each one stranger than the last. The through-line of every world: a
@@ -18,7 +18,8 @@
 
 **Commanders:** Bríd, the Kindler *(Tuatha Bláth)* · Medb, the Ledger-Queen *(An Ard-Riail)* · Fergus, the Ironside *(hardliner)*
 
-*(Canonical Mag Mell backstory — also carried in `art/commission2.html` §3.0; keep the two in sync.)*
+*(Canonical Mag Mell backstory — also carried in Commission #2 ([units & UI brief](../../briefs/units-ui.md),
+§3.0); keep the two in sync.)*
 
 Mag Mell was the clan-host's first landfall beyond the home star — the Plain of Delight, a green
 world the early voyage-fleets broke and sowed into the **breadbasket of the star-sea**. For a

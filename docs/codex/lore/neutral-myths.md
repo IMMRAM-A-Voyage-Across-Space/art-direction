@@ -1,7 +1,7 @@
 # IMMRAM — Neutral Myths
 
-> Legends of the creatures that belong to no cause. Companion to `docs/lore/world-backstories.md` and
-> the mechanical `docs/superpowers/specs/2026-06-27-factions-design.md` (§6 neutral roster). Neutrals are
+> Legends of the creatures that belong to no cause. Companion to [world backstories](world-backstories.md)
+> and the [faction codex](../factions.md) (the neutral roster). Neutrals are
 > recruited only from **wild dens** on the overworld, available to whoever flags them — the things older
 > than the war, that every faction tells stories about and none of them own.
 

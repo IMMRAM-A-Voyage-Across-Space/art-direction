@@ -1,7 +1,7 @@
 # IMMRAM — Commander Vignettes
 
 > Short character pieces for the 18 commanders (3 per isle). Companion to
-> `docs/lore/world-backstories.md` and the mechanical `docs/superpowers/specs/2026-06-27-factions-design.md`.
+> [world backstories](world-backstories.md) and the [faction codex](../factions.md).
 > Each commander's kit (passive · active · lean) is written *into* the character, not listed as stats.
 > At run start you pick one; the other two of that isle rally to the opposing cause and hunt you.
 

@@ -1,0 +1,10 @@
+# Licence
+
+Copyright © 2026 Connal Millett. All rights reserved.
+
+IMMRAM — *A Voyage Across Space*, including its world bible, art direction, palettes, commission
+briefs, lore, names, and artwork, is proprietary.
+
+This repository is public so that it can be served as a website. Public visibility does not grant
+a licence. No permission is given to copy, modify, redistribute, or train machine-learning models
+on this material.
