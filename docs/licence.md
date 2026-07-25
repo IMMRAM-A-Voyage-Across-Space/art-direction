@@ -1,5 +1,8 @@
 # Licence
 
+!!! note
+    This page mirrors the repository's root `LICENSE` file, which is authoritative.
+
 Copyright © 2026 Connal Millett. All rights reserved.
 
 IMMRAM — *A Voyage Across Space*, including its world bible, art direction, palettes, commission

@@ -91,8 +91,7 @@ grandchildren of one immram voyager — read that ancestor's tale to know the ho
 
 ### The source tales — the well
 
-Read for flows, moods, naming, and icons; then bend to our palette and pixel medium. Full annotated
-list in `docs/superpowers/specs/2026-07-08-immram-story-layer-design.md`.
+Read for flows, moods, naming, and icons; then bend to our palette and pixel medium.
 
 - [CELT — full texts (the primary well)](https://celt.ucc.ie/transpage.html)
 - [Máel Dúin (Stokes) — ~30 islands](https://celt.ucc.ie/transpage.html)

@@ -61,8 +61,7 @@ Draw the legend as the grandchildren would half-remember it, not as a re-enactme
 - [The Voyage of Bran](https://archive.org/details/voyageofbransono01meye) — the
   Otherworld's colour and light (the silver apple-branch, the plain of many hues).
 
-Full scholarly source list lives in the story-layer design doc
-(`docs/superpowers/specs/2026-07-08-immram-story-layer-design.md`).
+A fuller annotated source list lives in [the world bible](bible.md#the-source-tales-the-well).
 
 **Reference — space & neon pop (the other two thirds of the fusion).** The tales
 above feed the *myth*; these feed the *look*. Read for calibration, then bend to
