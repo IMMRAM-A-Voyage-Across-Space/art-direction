@@ -9,25 +9,32 @@ This repo is public because GitHub Pages on a free organisation requires it.
 It is **not** open source — see `LICENSE`. Pages carry `noindex`, so the site
 is unlisted but publicly reachable by URL.
 
-## Layout
+## Built with Zensical
+
+The site is a [Zensical](https://zensical.org/) project. Markdown under `docs/`
+is the single source of truth; the theme supplies navigation, chrome, search,
+and the dark/light palette — `zensical.toml` configures all of it, including
+an explicit `nav` so the sidebar follows the order an artist should read in.
 
 | Path | Contents |
 |---|---|
-| `bible/` | The world & art bible — canon |
-| `palette/` | The locked ~110-colour palette |
-| `briefs/` | Commission briefs |
-| `reference/` | Tile spec, stained-glass UI direction |
-| `codex/` | Factions, neutrals, lore |
-| `sprites/` | Gallery of shipped sprites |
-| `assets/source/` | Markdown sources |
-| `scripts/` | One-shot generators and the link checker |
+| `docs/index.md` | Landing page |
+| `docs/bible.md` | The world & art bible — canon |
+| `docs/palette.md` | The locked colour palette |
+| `docs/sprites.md` | Gallery of shipped sprites |
+| `docs/briefs/` | Commission briefs |
+| `docs/reference/` | Tile spec, stained-glass UI direction |
+| `docs/codex/` | Factions, neutrals, lore |
+| `docs/robots.txt` | Crawling policy (copied into the built site as-is) |
+| `zensical.toml` | Site configuration: nav, theme, palette, fonts |
 
-## Regenerating
+## Building
 
-`palette/`, `sprites/`, and `codex/lore/` are generated; their output is committed.
-GitHub Pages serves static files only — nothing runs at deploy time.
+```sh
+uvx zensical build --clean   # writes site/ (git-ignored, not committed)
+uvx zensical serve           # local preview with live reload
+```
 
-    python3 scripts/gen_palette.py
-    python3 scripts/gen_sprites.py
-    python3 scripts/gen_lore.py
-    ./scripts/check-links.sh
+Deployment is handled by the generated GitHub Actions workflow
+(`.github/workflows/docs.yml`): it builds the site and publishes the result to
+GitHub Pages. Nothing runs at request time — Pages serves static output only.
