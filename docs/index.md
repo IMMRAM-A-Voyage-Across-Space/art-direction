@@ -33,9 +33,9 @@ one opened:
 4. **[Shipped sprites](sprites.md)** — every sprite that has actually shipped, generated straight
    from what's on disk, so it can't drift the way a hand-maintained inventory can.
 
-## The two briefs
+## The three briefs
 
-Beyond the bible, two commission briefs hand the work to an artist directly:
+Beyond the bible, three commission briefs hand the work to an artist directly:
 
 - **[Commission #1 — Planet plates](briefs/planet-plates.md)** covers the six landscape plates,
   one per planet, that lock each world's palette, light, and material treatment — the art bible a
@@ -43,6 +43,9 @@ Beyond the bible, two commission briefs hand the work to an artist directly:
 - **[Commission #2 — Units, ships & UI](briefs/units-ui.md)** covers everything Commission #1
   parked for later: battlefield units, buildings and capitals, ships, commander portraits, and the
   HUD/UI, delivered in phases so Phase 1 scopes exactly what the first playable battle needs.
+- **[Commission #3 — Steam capsules](briefs/steam-capsules.md)** covers the store and library
+  capsule set, plus the wordmark everything else depends on. Smallest brief, hardest deadline: the
+  Steam page must be live **24 August 2026** to clear Next Fest registration.
 
 !!! info "Public, but `noindex`"
 

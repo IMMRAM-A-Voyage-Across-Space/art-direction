@@ -55,6 +55,7 @@ nav = [
   { "Briefs" = [
       { "#1 · Planet plates" = "briefs/planet-plates.md" },
       { "#2 · Units, ships & UI" = "briefs/units-ui.md" },
+      { "#3 · Steam capsules" = "briefs/steam-capsules.md" },
   ] },
   { "Reference" = [
       { "Tile spec" = "reference/tile-spec.md" },
