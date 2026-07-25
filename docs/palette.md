@@ -115,118 +115,253 @@ Two hard separations:
   emblems/flags/unit markers, never as terrain or generic accent. A pop painted
   into a world stays environmental and never reads as allegiance.
 - **Terrain is self-contained.** No shared material pool — a moon has no trees,
-  so brown lives in Terran's own palette. Only Core, Effects, and Armies & UI
+  so brown lives in Machaire's own palette. Only Core, Effects, and Armies & UI
   are shared, because units and the HUD appear on every world.
 
 ## 3. Locked palette
 
 ### Core (universal)
-```
-Void      #08060f   darkest, outlines, deep space
-Shadow    #14102a   ambient occlusion / cast shadow
-Starlight #e8ecff   universal specular highlight
-```
+
+<div markdown>
+| | Name | Hex | Use |
+|---|---|---|---|
+| <span class="swatch" style="background:#08060f"></span> | Void | `#08060f` | darkest, outlines, deep space |
+| <span class="swatch" style="background:#14102a"></span> | Shadow | `#14102a` | ambient occlusion / cast shadow |
+| <span class="swatch" style="background:#e8ecff"></span> | Starlight | `#e8ecff` | universal specular highlight |
+</div>
 
 ### Per world — terrain ramp · materials · creatures · pop
 Ramp order: `Shade Dark Base Light Hi`.
 
-**Regolith** (barren moon)
-```
-terrain    #241f2a #4a453d #9a9082 #ece2d0 #fbf6ec
-materials  Crater #1a1620  Rock #524d58  Mineral #8fb0c0
-creatures  Hide #544a5a  Carapace #8a8296  Eye #6fd8ff
-pop        Red glow #ff5a5a
-```
-**Ferrite** (oxidised iron — Deep Oxide)
-```
-terrain    #24100c #5a2416 #944228 #c86842 #e89870
-materials  Gunmetal #3a4250  Pipe #5a6572  Ember #ff7a3d  Oil #14100a
-creatures  Hide #3a2a22  Plate #6a5a4a  Eye #ff8a3d
-pop        Green glow #4ee06a
-```
-**Cryo** (ice)
-```
-terrain    #101a3a #2a5fa8 #4f9ce0 #a8e6ff #e6f6ff
-materials  Snow #eef6ff  Deep ice #1f4a7a  Rock #3a4250
-creatures  Hide #6a7a94  Frost-skin #aebfd4  Eye #a8f6ff
-pop        Magenta #ff6ad8
-```
-**Terran** (earth green)
-```
-terrain    #0a2a2a #0f7a45 #22c874 #4dff9e #c0ffe0
-materials  Wood #6e4428  Bark #3a2416  Water #2f7ac0  Soil #4a3420  Rock #5a5a52
-creatures  Hide #3a4a22  Moss #6a8a3a  Eye #ffe14f
-pop        Blue glow #5f82ff
-```
-**Basalt** (volcanic boss — Molten)
-```
-terrain    #2a0c08 #9c2408 #e04810 #ff6a2a #ffb070
-materials  Obsidian #120a10  Ash #4a4550  Char #2a1c1c  Ember #ff9a4f
-creatures  Char-hide #3a1c16  Cracked #7a2a1a  Eye #ff5a2a
-pop        Cyan glow #2ad6ff
-```
-**Xenoturf** (psychedelic)
-```
-terrain    #1f0a3a #6a1fa8 #b03fe0 #f06aff #ffc0ff
-materials  Spore #ff9fe0  Bio-cyan #4ff2d0  Flesh #d66a9c  Rot #5a4a2a
-creatures  Flesh #7a3a8a  Membrane #c86ad0  Eye #a8ff3d
-pop        Yellow #ffe24a
-```
+**Falias · Cnámh** (bone-grey dust & craters)
+
+<div markdown>
+*Terrain ramp:*
+
+| Shade | Dark | Base | Light | Hi |
+|---|---|---|---|---|
+| <span class="swatch" style="background:#241f2a"></span> `#241f2a` | <span class="swatch" style="background:#4a453d"></span> `#4a453d` | <span class="swatch" style="background:#9a9082"></span> `#9a9082` | <span class="swatch" style="background:#ece2d0"></span> `#ece2d0` | <span class="swatch" style="background:#fbf6ec"></span> `#fbf6ec` |
+
+*Materials, creatures & pop:*
+
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#1a1620"></span> | Materials | Crater | `#1a1620` |
+| <span class="swatch" style="background:#524d58"></span> | Materials | Rock | `#524d58` |
+| <span class="swatch" style="background:#8fb0c0"></span> | Materials | Mineral | `#8fb0c0` |
+| <span class="swatch" style="background:#544a5a"></span> | Creatures | Hide | `#544a5a` |
+| <span class="swatch" style="background:#8a8296"></span> | Creatures | Carapace | `#8a8296` |
+| <span class="swatch" style="background:#6fd8ff"></span> | Creatures | Eye | `#6fd8ff` |
+| <span class="swatch" style="background:#ff5a5a"></span> | Pop | Red glow | `#ff5a5a` |
+</div>
+
+**Gorias · Meirg** (rust-red iron dunes)
+
+<div markdown>
+*Terrain ramp:*
+
+| Shade | Dark | Base | Light | Hi |
+|---|---|---|---|---|
+| <span class="swatch" style="background:#24100c"></span> `#24100c` | <span class="swatch" style="background:#5a2416"></span> `#5a2416` | <span class="swatch" style="background:#944228"></span> `#944228` | <span class="swatch" style="background:#c86842"></span> `#c86842` | <span class="swatch" style="background:#e89870"></span> `#e89870` |
+
+*Materials, creatures & pop:*
+
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#3a4250"></span> | Materials | Gunmetal | `#3a4250` |
+| <span class="swatch" style="background:#5a6572"></span> | Materials | Pipe | `#5a6572` |
+| <span class="swatch" style="background:#ff7a3d"></span> | Materials | Ember | `#ff7a3d` |
+| <span class="swatch" style="background:#14100a"></span> | Materials | Oil | `#14100a` |
+| <span class="swatch" style="background:#3a2a22"></span> | Creatures | Hide | `#3a2a22` |
+| <span class="swatch" style="background:#6a5a4a"></span> | Creatures | Plate | `#6a5a4a` |
+| <span class="swatch" style="background:#ff8a3d"></span> | Creatures | Eye | `#ff8a3d` |
+| <span class="swatch" style="background:#4ee06a"></span> | Pop | Green glow | `#4ee06a` |
+</div>
+
+**Murias · Oighear** (methane ice)
+
+<div markdown>
+*Terrain ramp:*
+
+| Shade | Dark | Base | Light | Hi |
+|---|---|---|---|---|
+| <span class="swatch" style="background:#101a3a"></span> `#101a3a` | <span class="swatch" style="background:#2a5fa8"></span> `#2a5fa8` | <span class="swatch" style="background:#4f9ce0"></span> `#4f9ce0` | <span class="swatch" style="background:#a8e6ff"></span> `#a8e6ff` | <span class="swatch" style="background:#e6f6ff"></span> `#e6f6ff` |
+
+*Materials, creatures & pop:*
+
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#eef6ff"></span> | Materials | Snow | `#eef6ff` |
+| <span class="swatch" style="background:#1f4a7a"></span> | Materials | Deep ice | `#1f4a7a` |
+| <span class="swatch" style="background:#3a4250"></span> | Materials | Rock | `#3a4250` |
+| <span class="swatch" style="background:#6a7a94"></span> | Creatures | Hide | `#6a7a94` |
+| <span class="swatch" style="background:#aebfd4"></span> | Creatures | Frost-skin | `#aebfd4` |
+| <span class="swatch" style="background:#a8f6ff"></span> | Creatures | Eye | `#a8f6ff` |
+| <span class="swatch" style="background:#ff6ad8"></span> | Pop | Magenta | `#ff6ad8` |
+</div>
+
+**Mag Mell · Machaire** (green plain)
+
+<div markdown>
+*Terrain ramp:*
+
+| Shade | Dark | Base | Light | Hi |
+|---|---|---|---|---|
+| <span class="swatch" style="background:#0a2a2a"></span> `#0a2a2a` | <span class="swatch" style="background:#0f7a45"></span> `#0f7a45` | <span class="swatch" style="background:#22c874"></span> `#22c874` | <span class="swatch" style="background:#4dff9e"></span> `#4dff9e` | <span class="swatch" style="background:#c0ffe0"></span> `#c0ffe0` |
+
+*Materials, creatures & pop:*
+
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#6e4428"></span> | Materials | Wood | `#6e4428` |
+| <span class="swatch" style="background:#3a2416"></span> | Materials | Bark | `#3a2416` |
+| <span class="swatch" style="background:#2f7ac0"></span> | Materials | Water | `#2f7ac0` |
+| <span class="swatch" style="background:#4a3420"></span> | Materials | Soil | `#4a3420` |
+| <span class="swatch" style="background:#5a5a52"></span> | Materials | Rock | `#5a5a52` |
+| <span class="swatch" style="background:#3a4a22"></span> | Creatures | Hide | `#3a4a22` |
+| <span class="swatch" style="background:#6a8a3a"></span> | Creatures | Moss | `#6a8a3a` |
+| <span class="swatch" style="background:#ffe14f"></span> | Creatures | Eye | `#ffe14f` |
+| <span class="swatch" style="background:#5f82ff"></span> | Pop | Blue glow | `#5f82ff` |
+</div>
+
+**Tech Duinn · Gríosach** (black volcanic rock)
+
+<div markdown>
+*Terrain ramp:*
+
+| Shade | Dark | Base | Light | Hi |
+|---|---|---|---|---|
+| <span class="swatch" style="background:#2a0c08"></span> `#2a0c08` | <span class="swatch" style="background:#9c2408"></span> `#9c2408` | <span class="swatch" style="background:#e04810"></span> `#e04810` | <span class="swatch" style="background:#ff6a2a"></span> `#ff6a2a` | <span class="swatch" style="background:#ffb070"></span> `#ffb070` |
+
+*Materials, creatures & pop:*
+
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#120a10"></span> | Materials | Obsidian | `#120a10` |
+| <span class="swatch" style="background:#4a4550"></span> | Materials | Ash | `#4a4550` |
+| <span class="swatch" style="background:#2a1c1c"></span> | Materials | Char | `#2a1c1c` |
+| <span class="swatch" style="background:#ff9a4f"></span> | Materials | Ember | `#ff9a4f` |
+| <span class="swatch" style="background:#3a1c16"></span> | Creatures | Char-hide | `#3a1c16` |
+| <span class="swatch" style="background:#7a2a1a"></span> | Creatures | Cracked | `#7a2a1a` |
+| <span class="swatch" style="background:#ff5a2a"></span> | Creatures | Eye | `#ff5a2a` |
+| <span class="swatch" style="background:#2ad6ff"></span> | Pop | Cyan glow | `#2ad6ff` |
+</div>
+
+**Tír na nÓg · Draíocht** (bioluminescent growth)
+
+<div markdown>
+*Terrain ramp:*
+
+| Shade | Dark | Base | Light | Hi |
+|---|---|---|---|---|
+| <span class="swatch" style="background:#1f0a3a"></span> `#1f0a3a` | <span class="swatch" style="background:#6a1fa8"></span> `#6a1fa8` | <span class="swatch" style="background:#b03fe0"></span> `#b03fe0` | <span class="swatch" style="background:#f06aff"></span> `#f06aff` | <span class="swatch" style="background:#ffc0ff"></span> `#ffc0ff` |
+
+*Materials, creatures & pop:*
+
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#ff9fe0"></span> | Materials | Spore | `#ff9fe0` |
+| <span class="swatch" style="background:#4ff2d0"></span> | Materials | Bio-cyan | `#4ff2d0` |
+| <span class="swatch" style="background:#d66a9c"></span> | Materials | Flesh | `#d66a9c` |
+| <span class="swatch" style="background:#5a4a2a"></span> | Materials | Rot | `#5a4a2a` |
+| <span class="swatch" style="background:#7a3a8a"></span> | Creatures | Flesh | `#7a3a8a` |
+| <span class="swatch" style="background:#c86ad0"></span> | Creatures | Membrane | `#c86ad0` |
+| <span class="swatch" style="background:#a8ff3d"></span> | Creatures | Eye | `#a8ff3d` |
+| <span class="swatch" style="background:#ffe24a"></span> | Pop | Yellow | `#ffe24a` |
+</div>
 
 Pops form a **hexad** (two triads, 60° apart) so no two read alike, and each is
 a triadic/tetradic accent of its own terrain, clear of its own two banners.
 
 ### Faction banners (12, reserved identity)
 Two rival causes per biome, **complementary** so A and B always oppose.
-```
-Regolith  A Gold  #ffcf3a    B Indigo  #6a4cff
-Ferrite   A Red   #ff3b30    B Cyan    #33e6f0
-Cryo      A Azure #2e8bff    B Orange  #ff8a1e
-Terran    A Green #1fbf5f    B Magenta #ff3ec9
-Basalt    A Lime  #b6f53a    B Violet  #a94ce6
-Xenoturf  A Teal  #1fd6a8    B Rose    #ff6f8f
-```
+
+<div markdown>
+| Biome | Cause | | Name | Hex |
+|---|---|---|---|---|
+| Cnámh | A | <span class="swatch" style="background:#ffcf3a"></span> | Gold | `#ffcf3a` |
+| Cnámh | B | <span class="swatch" style="background:#6a4cff"></span> | Indigo | `#6a4cff` |
+| Meirg | A | <span class="swatch" style="background:#ff3b30"></span> | Red | `#ff3b30` |
+| Meirg | B | <span class="swatch" style="background:#33e6f0"></span> | Cyan | `#33e6f0` |
+| Oighear | A | <span class="swatch" style="background:#2e8bff"></span> | Azure | `#2e8bff` |
+| Oighear | B | <span class="swatch" style="background:#ff8a1e"></span> | Orange | `#ff8a1e` |
+| Machaire | A | <span class="swatch" style="background:#1fbf5f"></span> | Green | `#1fbf5f` |
+| Machaire | B | <span class="swatch" style="background:#ff3ec9"></span> | Magenta | `#ff3ec9` |
+| Gríosach | A | <span class="swatch" style="background:#b6f53a"></span> | Lime | `#b6f53a` |
+| Gríosach | B | <span class="swatch" style="background:#a94ce6"></span> | Violet | `#a94ce6` |
+| Draíocht | A | <span class="swatch" style="background:#1fd6a8"></span> | Teal | `#1fd6a8` |
+| Draíocht | B | <span class="swatch" style="background:#ff6f8f"></span> | Rose | `#ff6f8f` |
+</div>
 
 ### Liquids (per planet)
 Each planet's liquid is its own tinted tile (deep → base → foam), chosen at
 render by the planet's theme biome (`liquid_asset_key(map.theme)` →
 `biome-liquid-<world>`), so it contrasts that planet's land and reads as its
 liquid type. The game only picks the key; the colours live in the generator.
-```
-Terran  (water)   #0a2a4a #2f7ac0 #9fd4f0
-Regolith(water)   #14243a #4a6a8a #9ab0c8
-Xenoturf(water)   #0a2e3a #2ad0c8 #9ff0e8
-Ferrite (acid)    #163a12 #6ec828 #c8ff6a
-Cryo    (methane) #0a3230 #22b8a8 #a8f0e4
-Basalt  (lava)    #3a0c04 #ff5a14 #ffd24a
-```
+
+<div markdown>
+| Biome | Liquid | Deep | Base | Foam |
+|---|---|---|---|---|
+| Machaire | water | <span class="swatch" style="background:#0a2a4a"></span> `#0a2a4a` | <span class="swatch" style="background:#2f7ac0"></span> `#2f7ac0` | <span class="swatch" style="background:#9fd4f0"></span> `#9fd4f0` |
+| Cnámh | water | <span class="swatch" style="background:#14243a"></span> `#14243a` | <span class="swatch" style="background:#4a6a8a"></span> `#4a6a8a` | <span class="swatch" style="background:#9ab0c8"></span> `#9ab0c8` |
+| Draíocht | water | <span class="swatch" style="background:#0a2e3a"></span> `#0a2e3a` | <span class="swatch" style="background:#2ad0c8"></span> `#2ad0c8` | <span class="swatch" style="background:#9ff0e8"></span> `#9ff0e8` |
+| Meirg | acid | <span class="swatch" style="background:#163a12"></span> `#163a12` | <span class="swatch" style="background:#6ec828"></span> `#6ec828` | <span class="swatch" style="background:#c8ff6a"></span> `#c8ff6a` |
+| Oighear | methane | <span class="swatch" style="background:#0a3230"></span> `#0a3230` | <span class="swatch" style="background:#22b8a8"></span> `#22b8a8` | <span class="swatch" style="background:#a8f0e4"></span> `#a8f0e4` |
+| Gríosach | lava | <span class="swatch" style="background:#3a0c04"></span> `#3a0c04` | <span class="swatch" style="background:#ff5a14"></span> `#ff5a14` | <span class="swatch" style="background:#ffd24a"></span> `#ffd24a` |
+</div>
 
 ### Illumination (gold + Celtic ornament)
 The Celtic layer, added over the neon. Two shared gold tones; knot outlines
 reuse Void. Gold blooms in post like other neons.
-```
-Illumination Gold #e8b83a   interlace bands, borders, emblem fills
-Gold Glint        #ffdf8a   raised highlight on gold
-(outline)         #08060f   = Void
-```
+
+<div markdown>
+| | Name | Hex | Use |
+|---|---|---|---|
+| <span class="swatch" style="background:#e8b83a"></span> | Illumination Gold | `#e8b83a` | interlace bands, borders, emblem fills |
+| <span class="swatch" style="background:#ffdf8a"></span> | Gold Glint | `#ffdf8a` | raised highlight on gold |
+| <span class="swatch" style="background:#08060f"></span> | (outline) | `#08060f` | = Void |
+</div>
+
 Ornament vocabulary (Insular Irish): key/step (fret) borders, triskele &
 double-spiral bosses (shipped); plaited interlace trim, zoomorphic terminals,
 and Ogham strokes are planned. Applied to UI chrome, structures, and faction
 emblems — never so heavy that terrain or unit silhouettes stop reading.
 
 ### Effects (universal)
-```
-Blood #a01020  Poison #7dff3d  Fire #ff7a1f  Frost #8fe6ff
-Shock #ffe14f  Heal #3dff88   Shield #4f9cff  Smoke #6a6472
-```
+
+<div markdown>
+| | Name | Hex |
+|---|---|---|
+| <span class="swatch" style="background:#a01020"></span> | Blood | `#a01020` |
+| <span class="swatch" style="background:#7dff3d"></span> | Poison | `#7dff3d` |
+| <span class="swatch" style="background:#ff7a1f"></span> | Fire | `#ff7a1f` |
+| <span class="swatch" style="background:#8fe6ff"></span> | Frost | `#8fe6ff` |
+| <span class="swatch" style="background:#ffe14f"></span> | Shock | `#ffe14f` |
+| <span class="swatch" style="background:#3dff88"></span> | Heal | `#3dff88` |
+| <span class="swatch" style="background:#4f9cff"></span> | Shield | `#4f9cff` |
+| <span class="swatch" style="background:#6a6472"></span> | Smoke | `#6a6472` |
+</div>
 
 ### Armies & UI (universal)
-```
-Player rim  #4ff2ff (Ion Cyan)      Enemy rim #ff4fd8 (Magenta)
-Wild/neutral #c7bca8               Outline   #08060f (= Void)
-Status   Health #3dff88  Low #ff3d4f  Damage #ffffff  Select #ffe14f  XP #4ff2ff
-Resources Credits #ffd24f  Alloy #b8c0d0  Ore #c8763f  Plasma #ff5ff0  Crystal #6fe0ff
-```
+
+<div markdown>
+| | Category | Name | Hex |
+|---|---|---|---|
+| <span class="swatch" style="background:#4ff2ff"></span> | Team rim | Player rim (Ion Cyan) | `#4ff2ff` |
+| <span class="swatch" style="background:#ff4fd8"></span> | Team rim | Enemy rim (Magenta) | `#ff4fd8` |
+| <span class="swatch" style="background:#c7bca8"></span> | Neutral | Wild/neutral | `#c7bca8` |
+| <span class="swatch" style="background:#08060f"></span> | Neutral | Outline (= Void) | `#08060f` |
+| <span class="swatch" style="background:#3dff88"></span> | Status | Health | `#3dff88` |
+| <span class="swatch" style="background:#ff3d4f"></span> | Status | Low | `#ff3d4f` |
+| <span class="swatch" style="background:#ffffff"></span> | Status | Damage | `#ffffff` |
+| <span class="swatch" style="background:#ffe14f"></span> | Status | Select | `#ffe14f` |
+| <span class="swatch" style="background:#4ff2ff"></span> | Status | XP | `#4ff2ff` |
+| <span class="swatch" style="background:#ffd24f"></span> | Resources | Credits | `#ffd24f` |
+| <span class="swatch" style="background:#b8c0d0"></span> | Resources | Alloy | `#b8c0d0` |
+| <span class="swatch" style="background:#c8763f"></span> | Resources | Ore | `#c8763f` |
+| <span class="swatch" style="background:#ff5ff0"></span> | Resources | Plasma | `#ff5ff0` |
+| <span class="swatch" style="background:#6fe0ff"></span> | Resources | Crystal | `#6fe0ff` |
+</div>
 
 ## 4. Shading rules
 
@@ -261,7 +396,7 @@ accent. Team rim carries side; a small banner flash carries faction.
 ## 7. Structures & banners
 
 - Player/built structures read as tech: use a world's Metal-like material
-  (Ferrite Gunmetal/Pipe; elsewhere Rock + a cool grey) with the **team rim**.
+  (Meirg Gunmetal/Pipe; elsewhere Rock + a cool grey) with the **team rim**.
 - **Banners** are where faction identity lives — flags over capitals/mines,
   shoulder flashes on units, and faction cards in UI. Always the flat, saturated
   banner hue (no shading past a 1px dark edge) so identity stays unambiguous.
