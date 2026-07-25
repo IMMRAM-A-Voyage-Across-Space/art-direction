@@ -22,6 +22,7 @@ an explicit `nav` so the sidebar follows the order an artist should read in.
 | `docs/bible.md` | The world & art bible — canon |
 | `docs/palette.md` | The locked colour palette |
 | `docs/sprites.md` | Gallery of shipped sprites |
+| `docs/licence.md` | Licence summary (points to `LICENSE`) |
 | `docs/briefs/` | Commission briefs |
 | `docs/reference/` | Tile spec, stained-glass UI direction |
 | `docs/codex/` | Factions, neutrals, lore |

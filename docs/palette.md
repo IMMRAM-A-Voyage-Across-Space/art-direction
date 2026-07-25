@@ -5,8 +5,7 @@
 
 Palette/layer reference for IMMRAM (*A Voyage Across Space*; former working titles
 STARFALL / SpaceHeroes). Locks the palette and the rules
-that turn it into sprites. Interactive palette explorer:
-https://claude.ai/code/artifact/1fd3a246-5138-4ef6-8b59-05a5d8320f77
+that turn it into sprites.
 
 ## 0. The world (read first)
 
