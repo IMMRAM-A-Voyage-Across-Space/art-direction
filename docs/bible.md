@@ -280,7 +280,10 @@ Role
 
 Capital · boss
 :   **Space Castle** — themed fort, the planet's stronghold, and the **only built structure unique to
-    this isle**.
+    this isle** (Colossus canvas).
+
+Recruitment
+:   **Recruitment Hall**
 
 Crest · Tuatha Bláth
 :   Faction emblem — heraldic mark in this cause's banner colour.
@@ -290,8 +293,6 @@ Crest · An Ard-Riail
 
 Shared — see Universal
 :   Dropship pad · Mines · Mercenaries — drawn once for the whole game, not per planet.
-
-**Capital:** Space Castle · **Recruitment:** Recruitment Hall
 
 ### Apex wildlife · the monster the isle itself made
 
@@ -423,7 +424,10 @@ Role
 
 Capital · boss
 :   **Newgrange-style Fort** — themed fort, the planet's stronghold, and the **only built structure
-    unique to this isle**.
+    unique to this isle** (Colossus canvas).
+
+Recruitment
+:   **Mushroom-Hall**
 
 Crest · Na Draoithe
 :   Faction emblem — heraldic mark in this cause's banner colour.
@@ -433,8 +437,6 @@ Crest · Na Beangáin
 
 Shared — see Universal
 :   Dropship pad · Mines · Mercenaries — drawn once for the whole game, not per planet.
-
-**Capital:** Newgrange-style Fort · **Recruitment:** Mushroom-Hall
 
 ### Apex wildlife · the monster the isle itself made
 
@@ -566,7 +568,10 @@ Role
 
 Capital · boss
 :   **Mad-Max Fort** — themed fort, the planet's stronghold, and the **only built structure unique to
-    this isle**.
+    this isle** (Colossus canvas).
+
+Recruitment
+:   **Scrap-Yard**
 
 Crest · Na Fomóiri
 :   Faction emblem — heraldic mark in this cause's banner colour.
@@ -576,8 +581,6 @@ Crest · An Creimeadh
 
 Shared — see Universal
 :   Dropship pad · Mines · Mercenaries — drawn once for the whole game, not per planet.
-
-**Capital:** Mad-Max Fort · **Recruitment:** Scrap-Yard
 
 ### Apex wildlife · the monster the isle itself made
 
@@ -709,7 +712,10 @@ Role
 
 Capital · boss
 :   **Frozen Spire Fortress** — themed fort, the planet's stronghold, and the **only built structure
-    unique to this isle**.
+    unique to this isle** (Colossus canvas).
+
+Recruitment
+:   **Ice-Hall**
 
 Crest · Dún Seaca
 :   Faction emblem — heraldic mark in this cause's banner colour.
@@ -719,8 +725,6 @@ Crest · An Díorma Oighir
 
 Shared — see Universal
 :   Dropship pad · Mines · Mercenaries — drawn once for the whole game, not per planet.
-
-**Capital:** Frozen Spire Fortress · **Recruitment:** Ice-Hall
 
 ### Apex wildlife · the monster the isle itself made
 
@@ -852,7 +856,10 @@ Role
 
 Capital · boss
 :   **Lava Fortress** — themed fort, the planet's stronghold, and the **only built structure unique to
-    this isle**.
+    this isle** (Colossus canvas).
+
+Recruitment
+:   **Forge-Hall**
 
 Crest · Na Gaibhne
 :   Faction emblem — heraldic mark in this cause's banner colour.
@@ -862,8 +869,6 @@ Crest · Clann na Luaithe
 
 Shared — see Universal
 :   Dropship pad · Mines · Mercenaries — drawn once for the whole game, not per planet.
-
-**Capital:** Lava Fortress · **Recruitment:** Forge-Hall
 
 ### Apex wildlife · the monster the isle itself made
 
@@ -997,7 +1002,10 @@ Role
 
 Capital · boss
 :   **Cathedral** — themed fort, the planet's stronghold, and the **only built structure unique to
-    this isle**.
+    this isle** (Colossus canvas).
+
+Recruitment
+:   **Ossuary-Hall**
 
 Crest · Cumann na Piocóide
 :   Faction emblem — heraldic mark in this cause's banner colour.
@@ -1007,8 +1015,6 @@ Crest · An tOrd Tostach
 
 Shared — see Universal
 :   Dropship pad · Mines · Mercenaries — drawn once for the whole game, not per planet.
-
-**Capital:** Cathedral · **Recruitment:** Ossuary-Hall
 
 ### Apex wildlife · the monster the isle itself made
 
