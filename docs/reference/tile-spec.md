@@ -6,13 +6,9 @@ geometry, colour rules, border strategy, and naming contract; it deliberately ex
 asset inventory (which biomes/structures/overlays exist, RELEASE reservations, the authoring
 checklist).
 
-That exclusion is the point, not mere trimming: those inventory sections are where MANIFEST has
-drifted from the shipped game — they describe a `struct-mine` + pip-overlay scheme the code no
-longer uses (mines render per-resource `deposit-*`/`extractor-*` art instead), a RELEASE
-biome-priority list that omits Machaire, and an old flat liquid scheme
-(`biome-liquid-water/acid/methane/lava`) where the shipped PNGs are per-biome. Publishing any of
-that here would send an artist to draw the wrong assets. For **what actually exists**, see the
-[sprite gallery](../sprites.md) — built from the shipped PNGs on disk, where it cannot drift.
+This is the artist-facing drawing contract only — pipeline, geometry, colour, borders, naming.
+For what is currently shipped, see the [sprite gallery](../sprites.md), which is generated from
+the files on disk and so cannot go stale.
 
 ## Pipeline
 
