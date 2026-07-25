@@ -1,0 +1,6 @@
+# Crawling is ALLOWED on purpose.
+# Every page carries <meta name="robots" content="noindex,nofollow">.
+# Blocking crawls here would prevent crawlers from ever reading that tag,
+# which would let bare URLs surface in results anyway.
+User-agent: *
+Allow: /
