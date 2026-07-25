@@ -46,10 +46,12 @@ procedural voyages, permadeath. The campaign follows **Máel Dúin's grandchild*
 unfinished wound and a fixed destination: the ones responsible. Across a handful of isles the
 grandchild is changed, until — like the ancestor — they can **choose mercy instead of the kill**.
 
-**The turn is the whole design.** The campaign is a voyage with one fixed destination — vengeance.
-Completing it, by choosing forgiveness, is what **releases** the player into the open sea: the
-endless roguelike, with no destination at all. Letting go of the one place you were sailing toward
-is what opens the whole ocean.
+!!! note "The turn is the whole design"
+
+    The campaign is a voyage with one fixed destination — vengeance. Completing it, by choosing
+    forgiveness, is what **releases** the player into the open sea: the endless roguelike, with no
+    destination at all. Letting go of the one place you were sailing toward is what opens the whole
+    ocean.
 
 !!! warning "The one rule — echoes, not transcription"
 
@@ -69,11 +71,13 @@ is what opens the whole ocean.
     - Lose the grandchildren's distance — they half-remember these legends
     - Forget the mood arc: grief/hardness early, wonder/release as it opens out
 
-**Two bloods per isle — a visual tell.** One cause is led by **grandchildren of the immrama** (the
-rooted side that tends the isle) — draw them **carrying their lineage**: knotwork bloodline-marks, an
-ancestral crest worn like a badge. The rival cause are the **“new”** (the side that consumes or
-remakes it) — draw their heraldry **bare of the old marks, or effacing them**. Whether they were ever
-kin is a mystery the art should *hint at, never answer.*
+!!! tip "Two bloods per isle — a visual tell"
+
+    One cause is led by **grandchildren of the immrama** (the rooted side that tends the isle) —
+    draw them **carrying their lineage**: knotwork bloodline-marks, an ancestral crest worn like a
+    badge. The rival cause are the **“new”** (the side that consumes or remakes it) — draw their
+    heraldry **bare of the old marks, or effacing them**. Whether they were ever kin is a mystery
+    the art should *hint at, never answer.*
 
 ### The bloodlines
 
@@ -111,20 +115,15 @@ Three things at once. Retro-futurist neon, Insular-Celtic ornament, and pop-post
 pixel art where a vast dark ground makes a few saturated neons sing, and gold Celtic knotwork lays
 the *ancient* over the *futuristic*. Think a Book-of-Kells page rebuilt as a neon arcade cabinet.
 
-### Neon on the dark
+### Three pillars, one look
 
-Space is vast and near-black. Grounds stay dark and desaturated so a small number of glowing neons
-carry all the energy. Bloom lives on the neons only — never the grounds.
-
-### Celtic gold
-
-Insular-Irish ornament in gold — interlace, spirals, key-frets — trims chrome, structures, and
-emblems. It reads as sacred craft laid over the tech, and blooms softly like the other lights.
-
-### Pop punch
-
-Bold, high-contrast, readable. Chunky silhouettes you recognise at a glance; clean shapes; nothing
-muddy or fussy. If it doesn't read as a poster at thumbnail size, simplify.
+<div markdown>
+| | Pillar | What it means |
+|---|---|---|
+| <span class="swatch" style="background:#08060f"></span> | **Neon on the dark** | Space is vast and near-black. Grounds stay dark and desaturated so a small number of glowing neons carry all the energy. Bloom lives on the neons only — never the grounds. |
+| <span class="swatch" style="background:#e8b83a"></span> | **Celtic gold** | Insular-Irish ornament in gold — interlace, spirals, key-frets — trims chrome, structures, and emblems. It reads as sacred craft laid over the tech, and blooms softly like the other lights. |
+| | **Pop punch** | Bold, high-contrast, readable. Chunky silhouettes you recognise at a glance; clean shapes; nothing muddy or fussy. If it doesn't read as a poster at thumbnail size, simplify. |
+</div>
 
 ### What it looks like
 
@@ -137,11 +136,13 @@ muddy or fussy. If it doesn't read as a poster at thumbnail size, simplify.
 Each world has its own mood (the green plain, the rust dunes, the ice, the lava, the bone-grey
 moon). Pick what serves the scene — these are the only hard rules:
 
-- Grounds near-black & desaturated
+<div markdown>
+- Grounds near-black & desaturated — <span class="swatch" style="background:#08060f"></span> `#08060f`
 - 1–2 saturated neons per scene
-- Gold = all ornament
+- Gold = all ornament — <span class="swatch" style="background:#e8b83a"></span> `#e8b83a`
 - Bloom on neon + gold only
-- Player = cyan rim · Enemy = magenta rim
+- Player = cyan rim <span class="swatch" style="background:#4ff2ff"></span> `#4ff2ff` · Enemy = magenta rim <span class="swatch" style="background:#ff4fd8"></span> `#ff4fd8`
+</div>
 
 The exact ground, ornament-gold and rim values are locked on the [Palette](palette.md) page; the
 per-isle accents below are the mood, not the whole set.
@@ -304,47 +305,49 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ### Deliverables — Mag Mell
 
-**Terrain & features**
+??? note "Deliverables — 24 items"
 
-- [ ] 3× Mountains
-- [ ] 3× Boulders
-- [ ] 3× Forest
-- [ ] 2× Flower patch
-- [ ] 1× Wheat field
-- [ ] 1× River
-- [ ] 1× Bridge over river
-- [ ] 1× Ferry dock
-- [ ] 1× Beach
-- [ ] 1× Path
+    **Terrain & features**
 
-**Structure — capital only**
+    - [ ] 3× Mountains
+    - [ ] 3× Boulders
+    - [ ] 3× Forest
+    - [ ] 2× Flower patch
+    - [ ] 1× Wheat field
+    - [ ] 1× River
+    - [ ] 1× Bridge over river
+    - [ ] 1× Ferry dock
+    - [ ] 1× Beach
+    - [ ] 1× Path
 
-- [ ] Space Castle
+    **Structure — capital only**
 
-**Faction crests**
+    - [ ] Space Castle
 
-- [ ] Tuatha Bláth — crest
-- [ ] An Ard-Riail — crest
+    **Faction crests**
 
-**Units (T1–T6)**
+    - [ ] Tuatha Bláth — crest
+    - [ ] An Ard-Riail — crest
 
-- [ ] T1 Óglach — volunteer-warrior
-- [ ] T2 Ceithearnach — kern
-- [ ] T3 Fiach — raven scout
-- [ ] T4 Gallóglach — gallowglass
-- [ ] T5 Badhbh — war-crow
-- [ ] T6 Fomhórach — giant
+    **Units (T1–T6)**
 
-**Commanders**
+    - [ ] T1 Óglach — volunteer-warrior
+    - [ ] T2 Ceithearnach — kern
+    - [ ] T3 Fiach — raven scout
+    - [ ] T4 Gallóglach — gallowglass
+    - [ ] T5 Badhbh — war-crow
+    - [ ] T6 Fomhórach — giant
 
-- [ ] Bríd, the Kindler
-- [ ] Medb, the Ledger-Queen
-- [ ] Fergus, the Ironside
+    **Commanders**
 
-**Apex wildlife (beast + its hall)**
+    - [ ] Bríd, the Kindler
+    - [ ] Medb, the Ledger-Queen
+    - [ ] Fergus, the Ironside
 
-- [ ] Glas Gaibhleann — the Grazer-Titan
-- [ ] Glas Gaibhleann — recruitment hall
+    **Apex wildlife (beast + its hall)**
+
+    - [ ] Glas Gaibhleann — the Grazer-Titan
+    - [ ] Glas Gaibhleann — recruitment hall
 
 ---
 
@@ -448,47 +451,49 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ### Deliverables — Tír na nÓg
 
-**Terrain & features**
+??? note "Deliverables — 24 items"
 
-- [ ] 3× Mountains
-- [ ] 3× Giant Mushroom Forest
-- [ ] 3× Mushroom Forest
-- [ ] 2× Small mushroom patch
-- [ ] 1× Sparkly mist
-- [ ] 1× River
-- [ ] 1× Bridge over river
-- [ ] 1× Ferry dock
-- [ ] 1× Beach
-- [ ] 1× Path
+    **Terrain & features**
 
-**Structure — capital only**
+    - [ ] 3× Mountains
+    - [ ] 3× Giant Mushroom Forest
+    - [ ] 3× Mushroom Forest
+    - [ ] 2× Small mushroom patch
+    - [ ] 1× Sparkly mist
+    - [ ] 1× River
+    - [ ] 1× Bridge over river
+    - [ ] 1× Ferry dock
+    - [ ] 1× Beach
+    - [ ] 1× Path
 
-- [ ] Newgrange-style Fort
+    **Structure — capital only**
 
-**Faction crests**
+    - [ ] Newgrange-style Fort
 
-- [ ] Na Draoithe — crest
-- [ ] Na Beangáin — crest
+    **Faction crests**
 
-**Units (T1–T6)**
+    - [ ] Na Draoithe — crest
+    - [ ] Na Beangáin — crest
 
-- [ ] T1 Síolán — seedling
-- [ ] T2 Féithleog — tendril
-- [ ] T3 Leamhan Sí — fairy-moth
-- [ ] T4 Sligeach — shell-beast
-- [ ] T5 Máthair Shíl — seed-mother
-- [ ] T6 An Bilé — the World-Tree
+    **Units (T1–T6)**
 
-**Commanders**
+    - [ ] T1 Síolán — seedling
+    - [ ] T2 Féithleog — tendril
+    - [ ] T3 Leamhan Sí — fairy-moth
+    - [ ] T4 Sligeach — shell-beast
+    - [ ] T5 Máthair Shíl — seed-mother
+    - [ ] T6 An Bilé — the World-Tree
 
-- [ ] Dian Cécht
-- [ ] Miach, the Grafter
-- [ ] Naomh Folamh, the Hollow Saint
+    **Commanders**
 
-**Apex wildlife (beast + its hall)**
+    - [ ] Dian Cécht
+    - [ ] Miach, the Grafter
+    - [ ] Naomh Folamh, the Hollow Saint
 
-- [ ] Gaoth Sí — the Pollen Wraith
-- [ ] Gaoth Sí — recruitment hall
+    **Apex wildlife (beast + its hall)**
+
+    - [ ] Gaoth Sí — the Pollen Wraith
+    - [ ] Gaoth Sí — recruitment hall
 
 ---
 
@@ -592,47 +597,49 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ### Deliverables — Gorias
 
-**Terrain & features**
+??? note "Deliverables — 24 items"
 
-- [ ] 3× Mountains
-- [ ] 3× Rusting hulks (wrecks)
-- [ ] 3× Dead-tree forests
-- [ ] 2× Small rusting hulks
-- [ ] 1× decorative feature (TBD — to figure out)
-- [ ] 1× Acid River
-- [ ] 1× Bridge over river
-- [ ] 1× Zipline across acid
-- [ ] 1× Beach
-- [ ] 1× Path
+    **Terrain & features**
 
-**Structure — capital only**
+    - [ ] 3× Mountains
+    - [ ] 3× Rusting hulks (wrecks)
+    - [ ] 3× Dead-tree forests
+    - [ ] 2× Small rusting hulks
+    - [ ] 1× decorative feature (TBD — to figure out)
+    - [ ] 1× Acid River
+    - [ ] 1× Bridge over river
+    - [ ] 1× Zipline across acid
+    - [ ] 1× Beach
+    - [ ] 1× Path
 
-- [ ] Mad-Max Fort
+    **Structure — capital only**
 
-**Faction crests**
+    - [ ] Mad-Max Fort
 
-- [ ] Na Fomóiri — crest
-- [ ] An Creimeadh — crest
+    **Faction crests**
 
-**Units (T1–T6)**
+    - [ ] Na Fomóiri — crest
+    - [ ] An Creimeadh — crest
 
-- [ ] T1 Meirgín — little-rust
-- [ ] T2 Aigéadóir — acid-caster
-- [ ] T3 Sciathán Meirge — rust-wing
-- [ ] T4 Carnán — scrap-heap
-- [ ] T5 Creimire — the corroder
-- [ ] T6 Iarnphéist — iron-worm
+    **Units (T1–T6)**
 
-**Commanders**
+    - [ ] T1 Meirgín — little-rust
+    - [ ] T2 Aigéadóir — acid-caster
+    - [ ] T3 Sciathán Meirge — rust-wing
+    - [ ] T4 Carnán — scrap-heap
+    - [ ] T5 Creimire — the corroder
+    - [ ] T6 Iarnphéist — iron-worm
 
-- [ ] Balor of the Evil Eye
-- [ ] Bres, the Blighted
-- [ ] Fáidh na Meirge, the Rust Prophet
+    **Commanders**
 
-**Apex wildlife (beast + its hall)**
+    - [ ] Balor of the Evil Eye
+    - [ ] Bres, the Blighted
+    - [ ] Fáidh na Meirge, the Rust Prophet
 
-- [ ] Oilliphéist — the Dune Serpent
-- [ ] Oilliphéist — recruitment hall
+    **Apex wildlife (beast + its hall)**
+
+    - [ ] Oilliphéist — the Dune Serpent
+    - [ ] Oilliphéist — recruitment hall
 
 ---
 
@@ -736,47 +743,49 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ### Deliverables — Murias
 
-**Terrain & features**
+??? note "Deliverables — 24 items"
 
-- [ ] 3× Mountains
-- [ ] 3× Ice Boulders
-- [ ] 3× Frozen forests
-- [ ] 2× Snow dunes
-- [ ] 1× Snowman
-- [ ] 1× Frozen River
-- [ ] 1× Path/bridge over river
-- [ ] 1× Sled dogs (ice crossing)
-- [ ] 1× Beach
-- [ ] 1× Path
+    **Terrain & features**
 
-**Structure — capital only**
+    - [ ] 3× Mountains
+    - [ ] 3× Ice Boulders
+    - [ ] 3× Frozen forests
+    - [ ] 2× Snow dunes
+    - [ ] 1× Snowman
+    - [ ] 1× Frozen River
+    - [ ] 1× Path/bridge over river
+    - [ ] 1× Sled dogs (ice crossing)
+    - [ ] 1× Beach
+    - [ ] 1× Path
 
-- [ ] Frozen Spire Fortress
+    **Structure — capital only**
 
-**Faction crests**
+    - [ ] Frozen Spire Fortress
 
-- [ ] Dún Seaca — crest
-- [ ] An Díorma Oighir — crest
+    **Faction crests**
 
-**Units (T1–T6)**
+    - [ ] Dún Seaca — crest
+    - [ ] An Díorma Oighir — crest
 
-- [ ] T1 Oighrín — little-ice
-- [ ] T2 Siocaire — froster
-- [ ] T3 Biorán Reo — frost-dart
-- [ ] T4 Famhair Oighir — ice-giant
-- [ ] T5 Síobaire — blizzard-caster
-- [ ] T6 An Reoiteoir — the Freezer
+    **Units (T1–T6)**
 
-**Commanders**
+    - [ ] T1 Oighrín — little-ice
+    - [ ] T2 Siocaire — froster
+    - [ ] T3 Biorán Reo — frost-dart
+    - [ ] T4 Famhair Oighir — ice-giant
+    - [ ] T5 Síobaire — blizzard-caster
+    - [ ] T6 An Reoiteoir — the Freezer
 
-- [ ] Cathair, the Warden
-- [ ] Scáthach, the Vanguard
-- [ ] An Doleáite, the Thawless
+    **Commanders**
 
-**Apex wildlife (beast + its hall)**
+    - [ ] Cathair, the Warden
+    - [ ] Scáthach, the Vanguard
+    - [ ] An Doleáite, the Thawless
 
-- [ ] Seaca-Phéist — the Hoarfrost Drake
-- [ ] Seaca-Phéist — recruitment hall
+    **Apex wildlife (beast + its hall)**
+
+    - [ ] Seaca-Phéist — the Hoarfrost Drake
+    - [ ] Seaca-Phéist — recruitment hall
 
 ---
 
@@ -880,47 +889,49 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ### Deliverables — Tech Duinn
 
-**Terrain & features**
+??? note "Deliverables — 24 items"
 
-- [ ] 3× Mountains / Volcanoes
-- [ ] 3× Lava flows
-- [ ] 3× Needle Rock Formations
-- [ ] 2× Bonfires
-- [ ] 1× Little lava crack
-- [ ] 1× Lava river
-- [ ] 1× Bridge over river
-- [ ] 1× Zipline over lava
-- [ ] 1× Lava beach
-- [ ] 1× Path
+    **Terrain & features**
 
-**Structure — capital only**
+    - [ ] 3× Mountains / Volcanoes
+    - [ ] 3× Lava flows
+    - [ ] 3× Needle Rock Formations
+    - [ ] 2× Bonfires
+    - [ ] 1× Little lava crack
+    - [ ] 1× Lava river
+    - [ ] 1× Bridge over river
+    - [ ] 1× Zipline over lava
+    - [ ] 1× Lava beach
+    - [ ] 1× Path
 
-- [ ] Lava Fortress
+    **Structure — capital only**
 
-**Faction crests**
+    - [ ] Lava Fortress
 
-- [ ] Na Gaibhne — crest
-- [ ] Clann na Luaithe — crest
+    **Faction crests**
 
-**Units (T1–T6)**
+    - [ ] Na Gaibhne — crest
+    - [ ] Clann na Luaithe — crest
 
-- [ ] T1 Gríosán — little-ember
-- [ ] T2 Lasaire — flamer
-- [ ] T3 Séideán Tine — fire-gust
-- [ ] T4 An tInneoin — the Anvil
-- [ ] T5 Teilgeoir Gríosach — ember-hurler
-- [ ] T6 Coire Lasrach — the Flaming Cauldron
+    **Units (T1–T6)**
 
-**Commanders**
+    - [ ] T1 Gríosán — little-ember
+    - [ ] T2 Lasaire — flamer
+    - [ ] T3 Séideán Tine — fire-gust
+    - [ ] T4 An tInneoin — the Anvil
+    - [ ] T5 Teilgeoir Gríosach — ember-hurler
+    - [ ] T6 Coire Lasrach — the Flaming Cauldron
 
-- [ ] Goibniu, the Forgemaster
-- [ ] Aodh, the Ashlord
-- [ ] Naomh na Luaithe, the Cinder Saint
+    **Commanders**
 
-**Apex wildlife (beast + its hall)**
+    - [ ] Goibniu, the Forgemaster
+    - [ ] Aodh, the Ashlord
+    - [ ] Naomh na Luaithe, the Cinder Saint
 
-- [ ] Aillén — the Magma Leviathan
-- [ ] Aillén — recruitment hall
+    **Apex wildlife (beast + its hall)**
+
+    - [ ] Aillén — the Magma Leviathan
+    - [ ] Aillén — recruitment hall
 
 ---
 
@@ -1026,47 +1037,49 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ### Deliverables — Falias
 
-**Terrain & features**
+??? note "Deliverables — 24 items"
 
-- [ ] 3× Lunar Mountains
-- [ ] 3× Craters
-- [ ] 3× Large skeletal remains
-- [ ] 2× Bone monoliths
-- [ ] 1× Mine ruin
-- [ ] 1× Canyon (the gap)
-- [ ] 1× Bridge over canyon
-- [ ] 1× Fog-guide (waystones)
-- [ ] 1× Thick fog bank
-- [ ] 1× Path
+    **Terrain & features**
 
-**Structure — capital only**
+    - [ ] 3× Lunar Mountains
+    - [ ] 3× Craters
+    - [ ] 3× Large skeletal remains
+    - [ ] 2× Bone monoliths
+    - [ ] 1× Mine ruin
+    - [ ] 1× Canyon (the gap)
+    - [ ] 1× Bridge over canyon
+    - [ ] 1× Fog-guide (waystones)
+    - [ ] 1× Thick fog bank
+    - [ ] 1× Path
 
-- [ ] Cathedral
+    **Structure — capital only**
 
-**Faction crests**
+    - [ ] Cathedral
 
-- [ ] Cumann na Piocóide — crest
-- [ ] An tOrd Tostach — crest
+    **Faction crests**
 
-**Units (T1–T6)**
+    - [ ] Cumann na Piocóide — crest
+    - [ ] An tOrd Tostach — crest
 
-- [ ] T1 Pollaire — the digger
-- [ ] T2 Diúracóir — mass-driver
-- [ ] T3 Súileach — the many-eyed
-- [ ] T4 Tarathar — the auger
-- [ ] T5 Ga Fada — the far-ray
-- [ ] T6 Lia Fáil — Stone of Destiny
+    **Units (T1–T6)**
 
-**Commanders**
+    - [ ] T1 Pollaire — the digger
+    - [ ] T2 Diúracóir — mass-driver
+    - [ ] T3 Súileach — the many-eyed
+    - [ ] T4 Tarathar — the auger
+    - [ ] T5 Ga Fada — the far-ray
+    - [ ] T6 Lia Fáil — Stone of Destiny
 
-- [ ] Sreng, the Foreman
-- [ ] Tost, the Silent
-- [ ] Díthreabhach an Fholúis, the Vacuum Hermit
+    **Commanders**
 
-**Apex wildlife (beast + its hall)**
+    - [ ] Sreng, the Foreman
+    - [ ] Tost, the Silent
+    - [ ] Díthreabhach an Fholúis, the Vacuum Hermit
 
-- [ ] Cú Sí — the Void Stalker
-- [ ] Cú Sí — recruitment hall
+    **Apex wildlife (beast + its hall)**
+
+    - [ ] Cú Sí — the Void Stalker
+    - [ ] Cú Sí — recruitment hall
 
 ---
 
