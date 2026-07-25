@@ -1,6 +1,6 @@
 # IMMRAM — Wild & Neutral Codex
 
-**Creatures of no cause.**
+**The Bestiary — creatures of no cause.**
 
 *IMMRAM · Wild & Neutral Codex · v1*
 
