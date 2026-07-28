@@ -36,11 +36,11 @@ whoever flags them. See the companion Wild & Neutral Codex (a forthcoming page i
 ## Reading the codex
 
 - **MEL** — Melee · **RNG** — Ranged · **FLY** — Flyer
-- Resource pips: Ór (credits) · Cruach (alloy) · Mianach (ore) · Caor (plasma) · Criostal (crystal)
-- **T5** tiers gate on **Caor** (plasma); **T6** tiers gate on **Criostal** (crystal)
+- Resource pips: Ór (credits) · Cruach (alloy) · Mianach (ore) · Caor Thine (plasma) · Criostal (crystal)
+- **T5** tiers gate on **Caor Thine** (plasma); **T6** tiers gate on **Criostal** (crystal)
 
 Resource keys in the source data (`credits`, `alloy`, `ore`, `plasma`, `crystal`) are rendered below
-under their in-world display names — Ór, Cruach, Mianach, Caor, Criostal — per the `R` lookup table
+under their in-world display names — Ór, Cruach, Mianach, Caor Thine, Criostal — per the `R` lookup table
 in the script.
 
 ---
@@ -67,7 +67,7 @@ absorbs the Óglach / Fiach / Gallóglach / Ceithearnach starters.
 
 ### Causes
 
-#### Tuatha Bláth — folk of blossom · grow & hold
+#### Tuatha Blátha — folk of blossom · grow & hold
 
 The settler-line who broke the plain by hand; hold ground others would abandon. Economy & defense.
 
@@ -79,7 +79,7 @@ The settler-line who broke the plain by hand; hold ground others would abandon. 
 
 The centralised admiralty and its plasma-armed hosting. Logistics & firepower.
 
-**Resource lean:** Cruach, Caor
+**Resource lean:** Cruach, Caor Thine
 
 **Faction buff:** +offense; faster tier unlocks.
 
@@ -91,17 +91,17 @@ The centralised admiralty and its plasma-armed hosting. Logistics & firepower.
 | T2 | Ceithearnach | RNG | Line infantry; overwatch specialist. | Ór, Mianach |
 | T3 | Fiach | FLY | High sight; reveals fog, fast flank. | Cruach |
 | T4 | Gallóglach | MEL | Heavy tank; strong retaliation, tramples cover. | Cruach, Mianach |
-| T5 | Badhbh | FLY | Artillery flyer; long-range strike. | Caor (gate) |
+| T5 | Badhbh | FLY | Artillery flyer; long-range strike. | Caor Thine (gate) |
 | T6 | Fomhórach | MEL | Champion; ignores cover, terror. | Criostal (gate) |
 
 Reserved signature T7 (v2):
 
-- **Tuatha Bláth → Greenwarden** — Terraform-mech wreathed in growth; area-heal and regen.
+- **Tuatha Blátha → Greenwarden** — Terraform-mech wreathed in growth; area-heal and regen.
 - **An Ard-Riail → Aegis Dreadnought** — State war-engine; orbital-linked plasma siege.
 
 ### Commanders
 
-#### Bríd, the Kindler *(Tuatha Bláth)*
+#### Bríd, the Kindler *(Tuatha Blátha)*
 
 Quote
 :   *"We didn't break this plain to hand it back. Dig in."*
@@ -205,7 +205,7 @@ The isle waking to defend itself: a gestalt hive-mind, harmony and regeneration.
 
 Healers who stopped studying the isle and started *wearing* it. Mutation & aggression.
 
-**Resource lean:** Caor, Mianach
+**Resource lean:** Caor Thine, Mianach
 
 **Faction buff:** Killing a stack grants the killer stacking +Attack.
 
@@ -217,8 +217,8 @@ Healers who stopped studying the isle and started *wearing* it. Mutation & aggre
 | T2 | Féithleog | RNG | Tendril whip; snares, zone control. | Ór, Mianach |
 | T3 | Leamhan Sí | FLY | Reveals fog and blinds. | Cruach |
 | T4 | Sligeach | MEL | Tank; chitin armor, regenerates, slow. | Mianach |
-| T5 | Máthair Shíl | RNG | Artillery; spore-bombs, spawns free Síolán. | Caor (gate) |
-| T6 | An Bilé | MEL | Champion; regenerates each round, terror. | Criostal (gate) |
+| T5 | Máthair Shíl | RNG | Artillery; spore-bombs, spawns free Síolán. | Caor Thine (gate) |
+| T6 | An Bile | MEL | Champion; regenerates each round, terror. | Criostal (gate) |
 
 Reserved signature T7 (v2):
 
@@ -239,7 +239,7 @@ Passive
 :   All stacks regen each round.
 
 Active
-:   Bloom — full-heal + cleanse a stack.
+:   Tobar Sláine — full-heal + cleanse a stack.
 
 Tree
 :   Sustain / biomass.
@@ -319,7 +319,7 @@ corrosion.
 
 ### Causes
 
-#### Na Fomóiri — Fomorian raiders · salvage & attrition
+#### Na Fomhóraigh — Fomorian raiders · salvage & attrition
 
 Scrapper clans: a wreck is a promise, a salvaged bolt is sacred. Salvage & attrition.
 
@@ -331,7 +331,7 @@ Scrapper clans: a wreck is a promise, a salvaged bolt is sacred. Salvage & attri
 
 An acid-doctrine war-state: nothing deserves to last, the rust is holy. Corrosion & terror.
 
-**Resource lean:** Caor, Ór
+**Resource lean:** Caor Thine, Ór
 
 **Faction buff:** Attacks shred enemy Defense (armor-corrosion).
 
@@ -343,17 +343,17 @@ An acid-doctrine war-state: nothing deserves to last, the rust is holy. Corrosio
 | T2 | Aigéadóir | RNG | Corrosive sprayer; applies Defense-shred. | Ór, Mianach |
 | T3 | Sciathán Meirge | FLY | Fast, fragile salvage-strafe; ignores dunes. | Cruach |
 | T4 | Carnán | MEL | Tank; absorbs wreckage to self-repair, slow. | Mianach, Cruach |
-| T5 | Creimire | RNG | Artillery; acid shells leave a lingering pool. | Caor (gate) |
+| T5 | Creimire | RNG | Artillery; acid shells leave a lingering pool. | Caor Thine (gate) |
 | T6 | Iarnphéist | MEL | Champion; melts cover and armor, terror. | Criostal (gate) |
 
 Reserved signature T7 (v2):
 
-- **Na Fomóiri → The Monarch Rig** — Mobile factory that builds scrap stacks mid-battle.
+- **Na Fomhóraigh → The Monarch Rig** — Mobile factory that builds scrap stacks mid-battle.
 - **An Creimeadh → The Dissolver** — A roaming acid storm that corrodes everything in range.
 
 ### Commanders
 
-#### Balor of the Evil Eye *(Na Fomóiri)*
+#### Balor of the Evil Eye *(Na Fomhóraigh)*
 
 Quote
 :   *"Everything that dies on my sand pays rent."*
@@ -365,7 +365,7 @@ Passive
 :   +resources from kills.
 
 Active
-:   Tobar Sláine — rebuild a mechanical stack.
+:   Athchóiriú — rebuild a mechanical stack.
 
 Tree
 :   Economy / attrition.
@@ -456,7 +456,7 @@ Survival is endurance: hold the wall, yield nothing. Fortification & defense.
 
 The cold is a blade — freeze an enemy mid-step, be gone before the storm clears. Ambush & control.
 
-**Resource lean:** Cruach, Caor
+**Resource lean:** Cruach, Caor Thine
 
 **Faction buff:** Your freeze effects also cut enemy Initiative/AP.
 
@@ -468,8 +468,8 @@ The cold is a blade — freeze an enemy mid-step, be gone before the storm clear
 | T2 | Siocaire | RNG | Freeze-rifle; applies Slow. | Ór, Mianach |
 | T3 | Biorán Reo | FLY | Ice-shard strafe, reveals fog, brittle. | Cruach |
 | T4 | Famhair Oighir | MEL | Tank; immune to slow, very slow. | Mianach, Criostal |
-| T5 | Síobaire | RNG | Artillery; AoE freeze storm. | Caor (gate) |
-| T6 | An Reoiteoir | MEL | Champion; freezes its attackers, terror. | Criostal (gate) |
+| T5 | Síobaire | RNG | Artillery; AoE freeze storm. | Caor Thine (gate) |
+| T6 | An Reo Mór | MEL | Champion; freezes its attackers, terror. | Criostal (gate) |
 
 Reserved signature T7 (v2):
 
@@ -541,14 +541,14 @@ Ice Warren, Cryo Armory, Glaive Roost, Golem Glacier
 
 ### Apex Beast
 
-**Seaca-Phéist** — *the Hoarfrost Drake*
+**Péist Seaca** — *the Hoarfrost Drake*
 
 The first winter, given wings. A breath that freezes a whole line; a shadow that leaves statues
 behind.
 
 ---
 
-## 05 · Tech Duinn
+## 05 · Findias
 
 *Gríosach · black volcanic rock · lava*
 
@@ -581,7 +581,7 @@ Forge-priests who venerate fire as a *maker*. Armor & industry.
 
 Heretics who venerate fire as a *destroyer* — burn brightest closest to death. Sacrifice & frenzy.
 
-**Resource lean:** Caor, Criostal
+**Resource lean:** Caor Thine, Criostal
 
 **Faction buff:** Attacks apply Burn DoT; stacks hit harder below half HP.
 
@@ -591,9 +591,9 @@ Heretics who venerate fire as a *destroyer* — burn brightest closest to death.
 |---|---|---|---|---|
 | T1 | Gríosán | MEL | Swarm chaff; leaves burning ground on death. | Ór |
 | T2 | Lasaire | RNG | Flamethrower cone; Burn DoT. | Ór, Mianach |
-| T3 | Séideán Tine | FLY | Fast firebomb strafe, ignores terrain. | Cruach, Caor |
-| T4 | An tInneoin | MEL | Tank; molten armor, burns attackers, slow. | Cruach, Mianach |
-| T5 | Teilgeoir Gríosach | RNG | Artillery; lava-mortar leaves a pool. | Caor (gate) |
+| T3 | Séideán Tine | FLY | Fast firebomb strafe, ignores terrain. | Cruach, Caor Thine |
+| T4 | An Inneoin | MEL | Tank; molten armor, burns attackers, slow. | Cruach, Mianach |
+| T5 | Teilgeoir Gríosaí | RNG | Artillery; lava-mortar leaves a pool. | Caor Thine (gate) |
 | T6 | Coire Lasrach | MEL | Champion; living volcano, AoE burn aura, terror. | Criostal (gate) |
 
 Reserved signature T7 (v2):
@@ -615,7 +615,7 @@ Passive
 :   +Defense; cheaper heavy units.
 
 Active
-:   Tobar Sláine — restore armor / heal a golem or mech.
+:   Athchóiriú — restore armor / heal a golem or mech.
 
 Tree
 :   Armor / industry.
@@ -673,7 +673,7 @@ attack so much as *arrive*.
 
 ---
 
-## 06 · Falias
+## 06 · Tech Duinn
 
 *Cnámh · bone-grey dust & craters · the Veil*
 
@@ -708,7 +708,7 @@ A labor-militia of hardhats and drilling drones; win in numbers. Economy & swarm
 A vacuum-monastic sect sworn to quiet and dark — the only ones who know the Veil. Stealth &
 precision.
 
-**Resource lean:** Criostal, Caor
+**Resource lean:** Criostal, Caor Thine
 
 **Faction buff:** Stacks begin battle stealthed (first-strike from fog).
 
@@ -720,7 +720,7 @@ precision.
 | T2 | Diúracóir | RNG | Railgun; long range, ignores cover. | Ór, Mianach |
 | T3 | Súileach | FLY | Best scout; widest sight, very fragile. | Cruach |
 | T4 | Tarathar | MEL | Tank; drill-exosuit, breaches cover, slow. | Mianach, Cruach |
-| T5 | Ga Fada | FLY | Artillery; precise long-range kinetic strike. | Caor (gate) |
+| T5 | Ga Fada | FLY | Artillery; precise long-range kinetic strike. | Caor Thine (gate) |
 | T6 | Lia Fáil | RNG | Champion; planet-cracker rail pierces a whole line, terror. | Criostal (gate) |
 
 Reserved signature T7 (v2):
@@ -796,7 +796,7 @@ Dust Warren, Rail Yard, Drone Roost, Exo-Hangar
 
 **Cú Sí** — *the Void Stalker*
 
-The spectral death-hound of the mist — unseen until the instant it isn't. On Falias, the dark has
+The spectral death-hound of the mist — unseen until the instant it isn't. On Tech Duinn, the dark has
 teeth.
 
 ---

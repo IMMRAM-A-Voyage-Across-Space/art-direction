@@ -38,9 +38,9 @@ at base.
 | Glas Gaibhleann | Mag Mell · Machaire | Melee | The mythic cow of endless plenty, grown monstrous. |
 | Gaoth Sí | Tír na nÓg · Draíocht | Flying | The fairy-wind that steals wits. |
 | Oilliphéist | Gorias · Meirg | Melee | The great Irish worm that carved rivers. |
-| Seaca-Phéist | Murias · Oighear | Flying | The first winter, given wings. |
-| Aillén | Tech Duinn · Gríosach | Melee | Aillén the Burner, who torched Tara each Samhain. |
-| Cú Sí | Falias · Cnámh | Melee | The spectral death-hound of the mist. |
+| Péist Seaca | Murias · Oighear | Flying | The first winter, given wings. |
+| Aillén | Findias · Gríosach | Melee | Aillén the Burner, who torched Tara each Samhain. |
+| Cú Sí | Tech Duinn · Cnámh | Melee | The spectral death-hound of the mist. |
 
 ### Glas Gaibhleann — the Grazer-Titan
 
@@ -98,7 +98,7 @@ heaviest; ignores cover on emerge. The Corrosion calls it a saint.
 
 **Source:** Wild den — Gorias isles
 
-### Seaca-Phéist — the Hoarfrost Drake
+### Péist Seaca — the Hoarfrost Drake
 
 *Murias · Oighear*
 
@@ -118,7 +118,7 @@ The first winter, given wings. Cryo-breath that freezes a whole line — AoE fre
 
 ### Aillén — the Magma Leviathan
 
-*Tech Duinn · Gríosach*
+*Findias · Gríosach*
 
 <div markdown>
 **Ramp:** <span class="swatch" style="background:#232027"></span> `#232027`
@@ -133,11 +133,11 @@ The first winter, given wings. Cryo-breath that freezes a whole line — AoE fre
 Aillén the Burner, who torched Tara each Samhain — a slow mountain of living magma that doesn't
 attack so much as arrive. Very high AoE burn damage.
 
-**Source:** Wild den — Tech Duinn isles
+**Source:** Wild den — Findias isles
 
 ### Cú Sí — the Void Stalker
 
-*Falias · Cnámh*
+*Tech Duinn · Cnámh*
 
 <div markdown>
 **Ramp:** <span class="swatch" style="background:#4e4a44"></span> `#4e4a44`
@@ -150,9 +150,9 @@ attack so much as arrive. Very high AoE burn damage.
 **Class:** Melee
 
 The spectral death-hound of the mist — unseen until the instant it isn't. Massive single-target
-burst from stealth. On Falias, the dark has teeth.
+burst from stealth. On Tech Duinn, the dark has teeth.
 
-**Source:** Wild den — Falias isles
+**Source:** Wild den — Tech Duinn isles
 
 ---
 
@@ -166,7 +166,7 @@ burst from stealth. On Falias, the dark has teeth.
 | An Sluagh | Flying | The restless flying host — war-drones that forgot their orders. |
 | Na Díbergaigh | Melee | Masterless marauder-warriors. |
 | Fathach | Melee | A colossus from a crater. |
-| Lucht na Marbhna | Ranged | Dirge-singers who sing to the vacuum. |
+| Lucht na Marbhnaí | Ranged | Dirge-singers who sing to the vacuum. |
 
 ### Muir-fhoghlaithe — the Drifter Corsairs
 
@@ -184,7 +184,7 @@ The restless flying host — war-drones that forgot their orders. Hijacks an ene
 
 **Source:** Rare wild den — any isle
 
-### Na Díbergaigh — the Ronin Blades
+### Na Díbergaigh — the Masterless Blades
 
 **Class:** Melee
 
@@ -201,7 +201,7 @@ Extremely tanky, slow.
 
 **Source:** Rare wild den — any isle
 
-### Lucht na Marbhna — the Void Psalmists
+### Lucht na Marbhnaí — the Void Psalmists
 
 **Class:** Ranged
 

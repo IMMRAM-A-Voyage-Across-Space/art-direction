@@ -86,12 +86,12 @@ grandchildren of one immram voyager — read that ancestor's tale to know the ho
 
 | Isle · rooted cause | Ancestor |
 |---|---|
-| Mag Mell · Tuatha Bláth | **Máel Dúin's line** — the wanderer who chose mercy over the kill (your campaign home) |
+| Mag Mell · Tuatha Blátha | **Máel Dúin's line** — the wanderer who chose mercy over the kill (your campaign home) |
 | Tír na nÓg · Na Draoithe | **Bran's line** — voyager to the deathless Otherworld — Tír na nÓg itself |
-| Gorias · Na Fomóiri | **the Uí Chorra's line** — raiders redeemed, who rebuild from the wreck |
+| Gorias · Na Fomhóraigh | **the Uí Chorra's line** — raiders redeemed, who rebuild from the wreck |
 | Murias · Dún Seaca | **Snedgus & Mac Riagla's line** — two clerics who endured a killing sea |
-| Tech Duinn · Na Gaibhne | **Brendan's line** — past the isle of fire-smiths and the holy mountain |
-| Falias · Cumann na Piocóide | **a lost line** — the founding voyage was never written down *(deliberately open — feeds the mystery)* |
+| Findias · Na Gaibhne | **Brendan's line** — past the isle of fire-smiths and the holy mountain |
+| Tech Duinn · Cumann na Piocóide | **a lost line** — the founding voyage was never written down *(deliberately open — feeds the mystery)* |
 
 ### The source tales — the well
 
@@ -221,7 +221,7 @@ the plain belongs to. Familiar, warm, and quietly heartbreaking — which is why
 
 ### Two causes · opposed banners
 
-#### Tuatha Bláth — folk of blossom
+#### Tuatha Blátha — folk of blossom
 
 <div markdown>
 **Banner:** <span class="swatch" style="background:#1fbf5f"></span> `#1fbf5f`
@@ -239,7 +239,7 @@ The centralised admiralty and its plasma-armed hosting. Logistics & firepower.
 
 ### Commanders · 3 per isle
 
-#### Bríd, the Kindler *(Tuatha Bláth)*
+#### Bríd, the Kindler *(Tuatha Blátha)*
 
 Quote
 :   *“We didn't break this plain to hand it back. Dig in.”*
@@ -285,7 +285,7 @@ Capital · boss
 Recruitment
 :   **Recruitment Hall**
 
-Crest · Tuatha Bláth
+Crest · Tuatha Blátha
 :   Faction emblem — heraldic mark in this cause's banner colour.
 
 Crest · An Ard-Riail
@@ -326,7 +326,7 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
     **Faction crests**
 
-    - [ ] Tuatha Bláth — crest
+    - [ ] Tuatha Blátha — crest
     - [ ] An Ard-Riail — crest
 
     **Units (T1–T6)**
@@ -420,7 +420,7 @@ Role
 | T3 | FLY | Leamhan Sí | fairy-moth | Reveals fog and blinds |
 | T4 | MEL | Sligeach | shell-beast | Tank; chitin armor, regenerates, slow |
 | T5 | RNG | Máthair Shíl | seed-mother | Artillery; spore-bombs, spawns free Síolán |
-| T6 | MEL | An Bilé | the World-Tree | Champion; regenerates each round, terror |
+| T6 | MEL | An Bile | the World-Tree | Champion; regenerates each round, terror |
 
 ### Structures
 
@@ -482,7 +482,7 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
     - [ ] T3 Leamhan Sí — fairy-moth
     - [ ] T4 Sligeach — shell-beast
     - [ ] T5 Máthair Shíl — seed-mother
-    - [ ] T6 An Bilé — the World-Tree
+    - [ ] T6 An Bile — the World-Tree
 
     **Commanders**
 
@@ -513,7 +513,7 @@ into something crueler **on purpose**. Build from the ruin — or finish what th
 
 ### Two causes · opposed banners
 
-#### Na Fomóiri — Fomorian raiders
+#### Na Fomhóraigh — Fomorian raiders
 
 <div markdown>
 **Banner:** <span class="swatch" style="background:#ff3b30"></span> `#ff3b30`
@@ -531,7 +531,7 @@ An acid-doctrine war-state: nothing deserves to last, the rust is holy. Corrosio
 
 ### Commanders · 3 per isle
 
-#### Balor of the Evil Eye *(Na Fomóiri)*
+#### Balor of the Evil Eye *(Na Fomhóraigh)*
 
 Quote
 :   *“Everything that dies on my sand pays rent.”*
@@ -577,7 +577,7 @@ Capital · boss
 Recruitment
 :   **Scrap-Yard**
 
-Crest · Na Fomóiri
+Crest · Na Fomhóraigh
 :   Faction emblem — heraldic mark in this cause's banner colour.
 
 Crest · An Creimeadh
@@ -618,7 +618,7 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
     **Faction crests**
 
-    - [ ] Na Fomóiri — crest
+    - [ ] Na Fomhóraigh — crest
     - [ ] An Creimeadh — crest
 
     **Units (T1–T6)**
@@ -712,7 +712,7 @@ Role
 | T3 | FLY | Biorán Reo | frost-dart | Ice-shard strafe, reveals fog, brittle |
 | T4 | MEL | Famhair Oighir | ice-giant | Tank; immune to slow, very slow |
 | T5 | RNG | Síobaire | blizzard-caster | Artillery; AoE freeze storm |
-| T6 | MEL | An Reoiteoir | the Freezer | Champion; freezes its attackers, terror |
+| T6 | MEL | An Reo Mór | the Freezer | Champion; freezes its attackers, terror |
 
 ### Structures
 
@@ -734,7 +734,7 @@ Shared — see Universal
 
 ### Apex wildlife · the monster the isle itself made
 
-**Seaca-Phéist** — *the Hoarfrost Drake*
+**Péist Seaca** — *the Hoarfrost Drake*
 
 The first winter, given wings. A breath that freezes a whole line; a shadow that leaves statues
 behind.
@@ -774,7 +774,7 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
     - [ ] T3 Biorán Reo — frost-dart
     - [ ] T4 Famhair Oighir — ice-giant
     - [ ] T5 Síobaire — blizzard-caster
-    - [ ] T6 An Reoiteoir — the Freezer
+    - [ ] T6 An Reo Mór — the Freezer
 
     **Commanders**
 
@@ -784,12 +784,12 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
     **Apex wildlife (beast + its hall)**
 
-    - [ ] Seaca-Phéist — the Hoarfrost Drake
-    - [ ] Seaca-Phéist — recruitment hall
+    - [ ] Péist Seaca — the Hoarfrost Drake
+    - [ ] Péist Seaca — recruitment hall
 
 ---
 
-## 05 · Tech Duinn
+## 05 · Findias
 
 *Gríosach · black volcanic rock · lava*
 
@@ -797,8 +797,8 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 **Accent:** <span class="swatch" style="background:#2ad6ff"></span> `#2ad6ff`
 </div>
 
-The isle of the dead — the far shore every immram fears, where the fire is the only thing that ever
-loved anyone. All of it comes up out of the lava, so the lava became god.
+The forge at the end of the voyage — the sword-city's namesake, where the fire is the only thing
+that ever loved anyone. All of it comes up out of the lava, so the lava became god.
 
 The same magma-drakes march under both banners. Being the final isle, it asks the oldest question
 its fire ever posed: does the flame exist to **forge, or to consume?**
@@ -856,8 +856,8 @@ Role
 | T1 | MEL | Gríosán | little-ember | Swarm chaff; leaves burning ground on death |
 | T2 | RNG | Lasaire | flamer | Flamethrower cone; Burn DoT |
 | T3 | FLY | Séideán Tine | fire-gust | Fast firebomb strafe, ignores terrain |
-| T4 | MEL | An tInneoin | the Anvil | Tank; molten armor, burns attackers, slow |
-| T5 | RNG | Teilgeoir Gríosach | ember-hurler | Artillery; lava-mortar leaves a pool |
+| T4 | MEL | An Inneoin | the Anvil | Tank; molten armor, burns attackers, slow |
+| T5 | RNG | Teilgeoir Gríosaí | ember-hurler | Artillery; lava-mortar leaves a pool |
 | T6 | MEL | Coire Lasrach | the Flaming Cauldron | Champion; living volcano, AoE burn aura, terror |
 
 ### Structures
@@ -887,7 +887,7 @@ attack so much as *arrive*.
 
 Belongs to this isle — draw the **beast** and its **recruitment hall** (its den).
 
-### Deliverables — Tech Duinn
+### Deliverables — Findias
 
 ??? note "Deliverables — 24 items"
 
@@ -918,8 +918,8 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
     - [ ] T1 Gríosán — little-ember
     - [ ] T2 Lasaire — flamer
     - [ ] T3 Séideán Tine — fire-gust
-    - [ ] T4 An tInneoin — the Anvil
-    - [ ] T5 Teilgeoir Gríosach — ember-hurler
+    - [ ] T4 An Inneoin — the Anvil
+    - [ ] T5 Teilgeoir Gríosaí — ember-hurler
     - [ ] T6 Coire Lasrach — the Flaming Cauldron
 
     **Commanders**
@@ -935,7 +935,7 @@ Belongs to this isle — draw the **beast** and its **recruitment hall** (its de
 
 ---
 
-## 06 · Falias
+## 06 · Tech Duinn
 
 *Cnámh · bone-grey dust & craters · the Veil*
 
@@ -1030,12 +1030,12 @@ Shared — see Universal
 
 **Cú Sí** — *the Void Stalker*
 
-The spectral death-hound of the mist — unseen until the instant it isn't. On Falias, the dark has
+The spectral death-hound of the mist — unseen until the instant it isn't. On Tech Duinn, the dark has
 teeth.
 
 Belongs to this isle — draw the **beast** and its **recruitment hall** (its den).
 
-### Deliverables — Falias
+### Deliverables — Tech Duinn
 
 ??? note "Deliverables — 24 items"
 
@@ -1099,7 +1099,7 @@ Outlaw gunmen who sell to whoever's winning. Every kill lines their purse — an
 
 The restless flying host — war-drones that forgot their orders. Hijacks an enemy mechanical stack.
 
-### Na Díbergaigh — the Ronin Blades
+### Na Díbergaigh — the Masterless Blades
 
 **Class:** MEL
 
@@ -1111,7 +1111,7 @@ Masterless marauder-warriors: strike clean, strike first, without provoking reta
 
 A colossus from a crater — armor running on a war that ended before anyone alive was born.
 
-### Lucht na Marbhna — the Void Psalmists
+### Lucht na Marbhnaí — the Void Psalmists
 
 **Class:** RNG
 
@@ -1141,24 +1141,24 @@ planet. *(Apex beasts and their halls live with their home isle, above.)*
 - [ ] Críostal / Crystal — formation
 - [ ] Críostal — extractor
 - [ ] Críostal — refined icon
-- [ ] Caor / Plasma — vent
-- [ ] Caor — extractor
-- [ ] Caor — refined icon
+- [ ] Caor Thine / Plasma — vent
+- [ ] Caor Thine — extractor
+- [ ] Caor Thine — refined icon
 
 **Player tech — one each, whole game**
 
 - [ ] Dropship pad (the single landing pad for the whole game)
 - [ ] Currach Catha (balanced hull)
 - [ ] Currach Mianaigh (mining hull)
-- [ ] Sguaba Tuinne (science hull)
+- [ ] Scuab Tuinne (science hull)
 
 **Mercenaries — the 5 wild bands (creature art)**
 
 - [ ] Muir-fhoghlaithe, the Drifter Corsairs
 - [ ] An Sluagh, the Rogue Drone Swarm
-- [ ] Na Díbergaigh, the Ronin Blades
+- [ ] Na Díbergaigh, the Masterless Blades
 - [ ] Fathach, the Derelict War-Mech
-- [ ] Lucht na Marbhna, the Void Psalmists
+- [ ] Lucht na Marbhnaí, the Void Psalmists
 
 **Mercenary recruitment halls (5 · one per band)**
 
@@ -1166,7 +1166,7 @@ planet. *(Apex beasts and their halls live with their home isle, above.)*
 - [ ] An Sluagh — recruitment hall
 - [ ] Na Díbergaigh — recruitment hall
 - [ ] Fathach — recruitment hall
-- [ ] Lucht na Marbhna — recruitment hall
+- [ ] Lucht na Marbhnaí — recruitment hall
 
 ---
 
@@ -1190,7 +1190,7 @@ native-speaker pass before final.*
 `Ola`
 :   oil → the common refinery resource
 
-`Caor`
+`Caor Thine`
 :   flame-bolt → Plasma (rare; gates T5)
 
 `Críostal`
@@ -1200,7 +1200,10 @@ native-speaker pass before final.*
 :   Spear of Lugh — the Orbital Strike active
 
 `Tobar Sláine`
-:   the Healing Well — the Repair active
+:   the Healing Well — Dian Cécht's Bloom active (his own well, returned to him)
+
+`Athchóiriú`
+:   refitting — the Repair active (Balor, Goibniu)
 
 `Slógadh`
 :   the Hosting — the Rally active

@@ -22,7 +22,8 @@ What that means at the pencil:
   gilding on a manuscript page lit by neon).
 - **The cast is mythic, not military.** Factions and units carry Irish names
   (the Bláth, the Draoithe, the Fomhóir); worlds are named for the Otherworld
-  and the Four Cities (Mag Mell, Tír na nÓg, Gorias, Murias, Falias). Draw
+  (Mag Mell, Tír na nÓg, Tech Duinn) and for three of the Four Cities (Gorias,
+  Murias, Findias — Falias is the one we leave unused). Draw
   gods, druids, and monsters crossing the void — not soldiers.
 - **Tone:** vast and lonely yet electric — a manuscript illumination that also
   glows like a synth. When in doubt, ask "would this feel at home in an
@@ -133,7 +134,7 @@ Two hard separations:
 ### Per world — terrain ramp · materials · creatures · pop
 Ramp order: `Shade Dark Base Light Hi`.
 
-**Falias · Cnámh** (bone-grey dust & craters)
+**Tech Duinn · Cnámh** (bone-grey dust & craters)
 
 <div markdown>
 *Terrain ramp:*
@@ -224,7 +225,7 @@ Ramp order: `Shade Dark Base Light Hi`.
 | <span class="swatch" style="background:#5f82ff"></span> | Pop | Blue glow | `#5f82ff` |
 </div>
 
-**Tech Duinn · Gríosach** (black volcanic rock)
+**Findias · Gríosach** (black volcanic rock)
 
 <div markdown>
 *Terrain ramp:*
