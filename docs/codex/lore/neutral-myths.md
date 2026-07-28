@@ -34,9 +34,9 @@ against.
 Scrappers swim wide of the Dune Serpent's hunting grounds. It moves through the rust like water,
 acid sloughing off scales older than the first drowned hull, and surfaces *under* whatever's
 heaviest and most foolish — no wall, no wreck, no cover means anything to a thing that strikes from
-below. Na Fomóiri leave it offerings of scrap. The Corrosion calls it a saint.
+below. Na Fomhóraigh leave it offerings of scrap. The Corrosion calls it a saint.
 
-### Seaca-Phéist — the Hoarfrost Drake · Murias · flyer
+### Péist Seaca — the Hoarfrost Drake · Murias · flyer
 > "The first winter had a shape. And wings."
 
 Dún Seaca ("the Frostbound Hold") swears the winter that should have killed the landing was *alive*. The Hoarfrost
@@ -44,7 +44,7 @@ Drake is the cold given flight — a breath that freezes a whole line where it s
 crossing the white that leaves statues behind. Both causes fight near its roosts and never *for*
 them. You do not tame the Drake; you borrow its winter and pray it doesn't notice you're warm.
 
-### Aillén — the Magma Leviathan · Tech Duinn · melee
+### Aillén — the Magma Leviathan · Findias · melee
 > "The fire is god. The Leviathan is what answers when it's angry."
 
 It sleeps in the deep lava channels and surfaces in eruption — a slow mountain of living magma that
@@ -52,13 +52,13 @@ doesn't so much attack as *arrive*, leaving everything within reach simply on fi
 raise shrines over its resting places. Clann na Luaithe ("the Cinderborn") dive into the lava to be closer to it and are
 never seen again, which they count as a success.
 
-### Cú Sí — the Void Stalker · Falias · melee
+### Cú Sí — the Void Stalker · Tech Duinn · melee
 > "The Order didn't take the vow of silence for nothing. The reason hunts the Veil."
 
 The Void Stalker is the predator the crater-mist seems made to hide: unseen until the instant it
 isn't, a single total strike out of the grey, then nothing again. The guides who lead hosts through
 the Veil aren't only avoiding the gas — they're avoiding *it*. The Silent Order does not fear the
-dark. On Falias, the dark has teeth.
+dark. On Tech Duinn, the dark has teeth.
 
 ---
 
@@ -79,10 +79,10 @@ Someone's war-drones, once — whose, no one remembers. The swarm answers only t
 corrupted code, and in the field it turns an enemy's own steel against it, hijacking a mechanical
 stack mid-battle. Field them carelessly and they'll do the same to yours.
 
-### Na Díbergaigh — the Ronin Blades · melee
+### Na Díbergaigh — the Masterless Blades · melee
 > "Strike clean. Strike first. Take no answer."
 
-Veteran sellswords with one rule left from whatever code they abandoned. The Ronin cut and are gone
+Veteran sellswords with one rule left from whatever code they abandoned. They cut and are gone
 before the wound can swing back — they strike without ever provoking retaliation. They don't ask
 what the war is about. They ask what it pays, and whether you'll waste their edge.
 
@@ -94,7 +94,7 @@ itself — a slab of armor running on a war that ended before anyone alive was b
 punishment like geology and returns it the same way: slowly, hugely, and without apparent opinion on
 the matter.
 
-### Lucht na Marbhna — the Void Psalmists · ranged
+### Lucht na Marbhnaí — the Void Psalmists · ranged
 > "Hire them and you'll win battles you should have lost. You won't enjoy the music."
 
 Robed casters who sing to the vacuum — and sometimes the vacuum sings back. Rare even in legend,

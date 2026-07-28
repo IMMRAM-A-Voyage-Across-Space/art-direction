@@ -68,7 +68,7 @@ jewel: forest-belt holds, endless machaire fields, the isle every later landfall
 
 Then the home fleet reasserted itself. **An Ard-Riail** — the centralised admiralty and its professional,
 plasma-armed hosting — moved to bring the isle, its resources, and its sea-lanes back under direct command.
-**Tuatha Bláth** — the folk of blossom, the settler-line who broke the plain with their own hands — refused,
+**Tuatha Blátha** — the folk of blossom, the settler-line who broke the plain with their own hands — refused,
 holding that Mag Mell belongs to those who made it bloom.
 
 So IMMRAM's first war is a *civil* one: the same folk, the same warriors, the same craft, split over who Mag
@@ -78,9 +78,9 @@ and quietly heartbreaking.
 **What this means for the art — two dialects on one chassis:**
 - **An Ard-Riail** — uniform, state-issue, clean steel with **plasma accents** (`#d24fd2`); drilled
   and matched. Its capital, the **Ard-Riail Spire**, is a fortified seat of command.
-- **Tuatha Bláth** — improvised and agrarian; weathered, sun-faded **greens and earth tones**
+- **Tuatha Blátha** — improvised and agrarian; weathered, sun-faded **greens and earth tones**
   (`#3a6b2f / #5a8f43 / #8fc46a`), field-repaired gear, salvaged plating.
-- Crucially, the **silhouettes are shared** — a Tuatha Bláth warrior and an Ard-Riail warrior are the *same*
+- Crucially, the **silhouettes are shared** — a Tuatha Blátha warrior and an Ard-Riail warrior are the *same*
   soldier; only finish, palette, and insignia differ. This is the visual proof of "same creatures, different
   cause," and it carries across the whole game.
 
@@ -142,7 +142,7 @@ Just enough to play and read the slice:
 
 ### 4.1 Remaining faction rosters (30 units)
 The five other factions' six-tier rosters, same spec as §3.1, each from its biome's plate palette:
-Tír na nÓg, Gorias, Murias, Tech Duinn, Falias. Naming: `unit-<faction>-<unit>` (e.g. `unit-techduinn-magma-drake`).
+Tír na nÓg, Gorias, Murias, Findias, Tech Duinn. Naming: `unit-<faction>-<unit>` (e.g. `unit-findias-magma-drake`).
 *(Signature T7 champions are v2 — not commissioned yet.)*
 
 ### 4.2 Neutral roster (11)

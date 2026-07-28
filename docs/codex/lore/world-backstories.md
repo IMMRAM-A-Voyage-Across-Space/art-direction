@@ -14,9 +14,9 @@
 ---
 
 ## 01 · Mag Mell — Machaire *(green plain / water)*
-*Tuatha Bláth · An Ard-Riail ("The Directorate")*
+*Tuatha Blátha · An Ard-Riail ("The Directorate")*
 
-**Commanders:** Bríd, the Kindler *(Tuatha Bláth)* · Medb, the Ledger-Queen *(An Ard-Riail)* · Fergus, the Ironside *(hardliner)*
+**Commanders:** Bríd, the Kindler *(Tuatha Blátha)* · Medb, the Ledger-Queen *(An Ard-Riail)* · Fergus, the Ironside *(hardliner)*
 
 *(Canonical Mag Mell backstory — also carried in Commission #2 ([units & UI brief](../../briefs/units-ui.md),
 §3.0); keep the two in sync.)*
@@ -30,7 +30,7 @@ crews gave to a season when the voyage still felt like a promise instead of a fi
 Then the home fleet reasserted itself. **An Ard-Riail** — the centralised admiralty and its
 professional, plasma-armed hosting — moved to bring the isle, its resources, and its sea-lanes back
 under direct command; **Medb, the Ledger-Queen** speaks for the order it promises, **Fergus, the
-Ironside** for the iron behind it. **Tuatha Bláth** — the folk of blossom, the settler-line who
+Ironside** for the iron behind it. **Tuatha Blátha** — the folk of blossom, the settler-line who
 broke the plain with their own hands — refused, holding that Mag Mell belongs to those who made it
 bloom, and **Bríd, the Kindler**, would sooner entrench in the fields than hand them to a flag.
 
@@ -66,9 +66,9 @@ na nÓg is to decide what *alive* should even mean.
 ---
 
 ## 03 · Gorias — Meirg *(rust-red iron dunes / acid)*
-*Na Fomóiri · An Creimeadh ("the corrosion")*
+*Na Fomhóraigh · An Creimeadh ("the corrosion")*
 
-**Commanders:** Balor of the Evil Eye *(Na Fomóiri)* · Bres, the Blighted *(An Creimeadh)* · Fáidh na Meirge, the Rust Prophet *(warlord)*
+**Commanders:** Balor of the Evil Eye *(Na Fomhóraigh)* · Bres, the Blighted *(An Creimeadh)* · Fáidh na Meirge, the Rust Prophet *(warlord)*
 
 Gorias is a graveyard that learned to walk. An earlier, prouder wave of the voyage made landfall
 here, choked on the acid air, and died in their thousands — leaving a rust-red desert buried under
@@ -76,7 +76,7 @@ the bones of drowned hulls. The clan that survives now are the children of that 
 live the only way the dunes allow: by eating the dead. Every horizon is wreckage; every breath is
 filtered; every craft is stitched from three older ones.
 
-**Na Fomóiri** — Fomorian raiders — are the scrapper clans who hold that survival *is* rebuilding:
+**Na Fomhóraigh** — Fomorian raiders — are the scrapper clans who hold that survival *is* rebuilding:
 a wreck is a promise, a salvaged bolt is sacred, and the future is welded together one ruin at a
 time. **An Creimeadh** learned a darker lesson from the same poison: that the acid which killed the
 first landing is not a curse but a doctrine. They melt armor and certainty alike, preach that
@@ -113,12 +113,12 @@ prey.
 
 ---
 
-## 05 · Tech Duinn — Gríosach *(black volcanic rock / lava)*
+## 05 · Findias — Gríosach *(black volcanic rock / lava)*
 *Na Gaibhne ("Emberwrights") · Clann na Luaithe ("Cinderborn")*
 
 **Commanders:** Goibniu, the Forgemaster *(Na Gaibhne)* · Aodh, the Ashlord *(Clann na Luaithe)* · Naomh na Luaithe, the Cinder Saint *(fire-cult)*
 
-Tech Duinn is the isle of the dead — the far shore every immram fears, where the fire is the only
+Findias is the forge at the end of the voyage — the sword-city's namesake, where the fire is the only
 thing that ever loved anyone. Warmth, light, water, metal — all of it comes up out of the lava, so
 the lava became god. Holds cling to the magma channels like moths; the great forges have not gone
 cold in living memory; every child is born within sight of a fire that could kill them and keeps
@@ -132,22 +132,30 @@ deserves to be. **Goibniu, the Forgemaster** reforges what shatters and armors w
 **Naomh na Luaithe, the Cinder Saint** feeds the pyre with their own stacks and calls it grace.
 
 The same magma-drakes and molten titans march under both banners. One side tempers them into
-anvils; the other throws them onto the fire. Tech Duinn asks the oldest question its fire ever
+anvils; the other throws them onto the fire. Findias asks the oldest question its fire ever
 posed — and the last one, since it is the final isle of the voyage: does the flame exist to forge,
 or to consume?
 
 ---
 
-## 06 · Falias — Cnámh *(bone-grey stone dust & craters / the Veil — cold-trap mist)*
+## 06 · Tech Duinn — Cnámh *(bone-grey stone dust & craters / the Veil — cold-trap mist)*
 *Cumann na Piocóide ("Pickaxe Union") · An tOrd Tostach ("the silent order")*
 
 **Commanders:** Sreng, the Foreman *(Cumann na Piocóide)* · Tost, the Silent *(An tOrd Tostach)* · Díthreabhach an Fholúis, the Vacuum Hermit *(savant)*
 
-*Design note: the Veil is mechanically just Falias's liquid, and a guide is its ferry — any
+*Design note: the Veil is mechanically just Tech Duinn's liquid, and a guide is its ferry — any
 expedition can pay for one, so it gates nothing. It changes no game systems; only the theme and
 visuals differ.*
 
-Falias is bone-grey, airless, and rich — a low-gravity moon-isle cratered to the core and threaded
+*Naming note — do NOT "fix" this back: isles 5 and 6 were once named the other way round, with*
+*Tech Duinn (the assembly-house of the dead) on the fire isle and Falias (the stone city) here on the*
+*bone isle. They were swapped deliberately; Falias is now unused and isle 5 became Findias. One*
+*consequence is kept on purpose: **`Lia Fáil`, the stone of Falias, is this isle's T6 unit** and so*
+*now stands on Tech Duinn. That reads correctly — a destiny-stone marking the passage of the dead —*
+*and the alternative would be inventing a replacement unit for no gain.*
+
+Tech Duinn — the house of Donn, where the old tales say the dead gather before they go on — is
+bone-grey, airless, and rich: a low-gravity moon-isle cratered to the core and threaded
 with mines, the resource heart that the rest of the fleet quietly depends on. But the vacuum hides
 a trap: in the deep, sunless crater-floors, cold-trapped heavy gases settle into drifting banks of
 grey mist — **the Veil** — opaque, disorienting, and quietly lethal to anyone who wanders in without
@@ -164,7 +172,7 @@ anyone alive). Where **Sreng, the Foreman** floods the open dust with bodies and
 the Silent's** few move whole hosts through fog no one else dares enter.
 
 The loud many against the silent few, over the same tunnels, rails, and mass-drivers — and the Veil
-between them. The Union owns the open ground; the Order owns the grey. To campaign on Falias is to
+between them. The Union owns the open ground; the Order owns the grey. To campaign on Tech Duinn is to
 learn which paths through the mist are real, and who is willing to lead you down them.
 
 ---

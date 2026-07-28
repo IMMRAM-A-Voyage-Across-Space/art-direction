@@ -42,11 +42,11 @@ Each plate = biome ground + the planet's liquid + the shared feature set. Palett
 | **Tír na nÓg** | Draíocht: bioluminescent growth | `#1d5a4d` / `#2f7d6b` / `#7ef0d0` | algal water (teal) | `#1e5a52` / `#2f8a78` / `#8fe6cf` |
 | **Gorias** | Meirg: rust-red iron dunes | `#6f3d26` / `#9c5a38` / `#c07a4e` | acid (toxic green) | `#3a7a1e` / `#7bd84f` / `#d6ff8a` |
 | **Murias** | Oighear: methane ice plains | `#8fa9bd` / `#bcd2e0` / `#e6f1f8` | liquid methane (cyan) | `#1e6a7a` / `#4fd8d8` / `#bff7f7` |
-| **Tech Duinn** | Gríosach: black volcanic rock | `#232027` / `#3a3640` / `#55505c` (ember `#e2622a`) | lava (molten) | `#7a1e0a` / `#e2622a` / `#ffcf6b` |
-| **Falias** | Cnámh: bone-grey dust & craters | `#4e4a44` / `#6f6a63` / `#8d877d` | the Veil (cold slate) | `#2a3b46` / `#3f5a68` / `#7fa0b0` |
+| **Findias** | Gríosach: black volcanic rock | `#232027` / `#3a3640` / `#55505c` (ember `#e2622a`) | lava (molten) | `#7a1e0a` / `#e2622a` / `#ffcf6b` |
+| **Tech Duinn** | Cnámh: bone-grey dust & craters | `#4e4a44` / `#6f6a63` / `#8d877d` | the Veil (cold slate) | `#2a3b46` / `#3f5a68` / `#7fa0b0` |
 
 Each plate's **sky** should also sell the world: atmosphere colour, one or two moons, and the same sun
-position. Mag Mell reads warm and familiar; Murias thin and cold; Tech Duinn dark with ember glow; Falias near-
+position. Mag Mell reads warm and familiar; Murias thin and cold; Findias dark with ember glow; Tech Duinn near-
 airless and stark; Gorias hazy ochre; Tír na nÓg humid and luminous.
 
 ## 4. The fixed composition (identical on every plate)

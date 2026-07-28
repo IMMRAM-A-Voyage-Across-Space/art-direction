@@ -9,11 +9,11 @@
 
 ## 01 · Mag Mell
 
-### Bríd, the Kindler — *Tuatha Bláth · economy & defense*
+### Bríd, the Kindler — *Tuatha Blátha · economy & defense*
 > "We didn't break this plain to hand it back. Dig in."
 
 Bríd came up planting windbreaks and grain, not fighting wars — a third-generation sower who reads
-soil better than a chart. She leads Tuatha Bláth the way she farmed: patiently, cheaply, holding
+soil better than a chart. She leads Tuatha Blátha the way she farmed: patiently, cheaply, holding
 ground others would abandon. Her crews love her because she spends ammunition like water in a
 drought and eats last. When the Directorate's columns come, Bríd doesn't charge — she **entrenches**,
 roots her stacks into the fields they grew, and lets the attacker break on a line that simply will
@@ -23,7 +23,7 @@ not move.
 > "Sentiment is a supply problem. I have solved it."
 
 Medb never set foot on a machaire field. She runs An Ard-Riail the way one runs a fleet — by
-manifest, by margin, by the cold arithmetic of who can be resupplied fastest. To her, Tuatha Bláth
+manifest, by margin, by the cold arithmetic of who can be resupplied fastest. To her, Tuatha Blátha
 aren't traitors so much as an inefficiency: an isle's worth of production sitting outside the
 admiralty's ledger. She wins by **out-growing** her enemy, fielding fresh stacks faster than they
 fall, and when a position proves stubborn she removes it from orbit. She is not cruel. She is simply
@@ -74,7 +74,7 @@ lets the swarm wake.
 
 ## 03 · Gorias
 
-### Balor of the Evil Eye — *Na Fomóiri · economy & attrition*
+### Balor of the Evil Eye — *Na Fomhóraigh · economy & attrition*
 > "Everything that dies on my sand pays rent."
 
 Balor built her clan out of three wrecked hulls and a stubborn refusal to die, and she's run it like
@@ -134,7 +134,7 @@ simply made peace with never being warm again.
 
 ---
 
-## 05 · Tech Duinn
+## 05 · Findias
 
 ### Goibniu, the Forgemaster — *Na Gaibhne · armor & industry*
 > "Fire does not destroy iron. It teaches it shape."
@@ -165,13 +165,13 @@ lower their voices when the Saint walks past.
 
 ---
 
-## 06 · Falias
+## 06 · Tech Duinn
 
 ### Sreng, the Foreman — *Cumann na Piocóide · economy & swarm*
 > "One drill breaks. Ten thousand don't stop. That's the whole speech."
 
 Sreng came up in the deep cuts and never learned to talk like management, which is exactly why the
-Union follows him. He fights the way Falias mines: with patient, overwhelming **mass** — more
+Union follows him. He fights the way Tech Duinn mines: with patient, overwhelming **mass** — more
 drones, more bodies, more output than any precise little order can grind down. Call him stubborn and
 he'll agree; call him outnumbered and he'll laugh, because there is always another shift coming up
 the lift. Sreng doesn't win battles so much as refuse, at industrial scale, to lose them.
@@ -183,13 +183,13 @@ Tost took the vow of the vacuum: no voice, no signature, no warning. Her order i
 and almost never seen — which is the point. Her stacks open every battle already **gone from the
 enemy's sensors**, and when she **marks** a target the whole Order's fire finds it at once, out of
 silence. Sreng fields a crowd; Tost fields a rumor that turns out, too late, to have been standing
-behind you. She and the Hermit are the only two on Falias who understand each other, and they have
+behind you. She and the Hermit are the only two on Tech Duinn who understand each other, and they have
 never once spoken.
 
 ### Díthreabhach an Fholúis, the Vacuum Hermit — *savant · mobility & recon*
 > "Gravity is a suggestion. Distance is a habit. I have quit both."
 
-The Hermit lives alone on the far craters with their drones for company and a map of Falias more
+The Hermit lives alone on the far craters with their drones for company and a map of Tech Duinn more
 complete than the Union's surveys and the Order's intelligence combined. They fight rarely and
 strangely — **flyers and drones moving farther and seeing more than physics should allow**, a lone
 stack leaping craters in the low gravity to land where no one was watching. Both causes court the
