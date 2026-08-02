@@ -1,0 +1,28 @@
+GIMP Palette
+Name: IMMRAM 0 · Universal
+#
+  8   6  15	Void (outline)
+ 20  16  42	Shadow
+232 236 255	Starlight
+232 184  58	Illumination Gold
+255 223 138	Gold Glint
+160  16  32	FX Blood
+125 255  61	FX Poison
+255 122  31	FX Fire
+143 230 255	FX Frost
+255 225  79	FX Shock
+ 61 255 136	FX Heal
+ 79 156 255	FX Shield
+106 100 114	FX Smoke
+ 79 242 255	Player rim (Ion Cyan)
+255  79 216	Enemy rim (Magenta)
+199 188 168	Wild / neutral
+ 61 255 136	UI Health
+255  61  79	UI Low HP
+255 255 255	UI Damage
+255 225  79	UI Select
+255 210  79	Credits
+184 192 208	Alloy
+200 118  63	Ore
+255  95 240	Plasma
+111 224 255	Crystal

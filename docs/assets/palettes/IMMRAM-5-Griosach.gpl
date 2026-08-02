@@ -1,0 +1,26 @@
+GIMP Palette
+Name: IMMRAM 5 · Findias · Gríosach
+#
+ 42  12   8	Ramp Shade
+156  36   8	Ramp Dark
+224  72  16	Ramp Base
+255 106  42	Ramp Light
+255 176 112	Ramp Hi
+ 18  10  16	Obsidian
+ 74  69  80	Ash
+ 42  28  28	Char
+255 154  79	Ember
+ 58  28  22	Char-hide
+122  42  26	Cracked
+255  90  42	Eye
+ 42 214 255	Pop
+182 245  58	Banner A
+169  76 230	Banner B
+ 58  12   4	Liquid deep
+255  90  20	Liquid base
+255 210  74	Liquid foam
+  8   6  15	Void (outline)
+ 20  16  42	Shadow
+232 236 255	Starlight
+ 79 242 255	Player rim
+255  79 216	Enemy rim

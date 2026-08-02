@@ -52,6 +52,7 @@ nav = [
   { "The bible" = "bible.md" },
   { "Palette" = "palette.md" },
   { "Palette · Procreate" = "palette-procreate.md" },
+  { "Palette · Pixaki" = "palette-pixaki.md" },
   { "Shipped sprites" = "sprites.md" },
   { "Briefs" = [
       { "#1 · Planet plates" = "briefs/planet-plates.md" },

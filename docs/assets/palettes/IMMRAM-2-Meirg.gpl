@@ -1,0 +1,26 @@
+GIMP Palette
+Name: IMMRAM 2 · Gorias · Meirg
+#
+ 36  16  12	Ramp Shade
+ 90  36  22	Ramp Dark
+148  66  40	Ramp Base
+200 104  66	Ramp Light
+232 152 112	Ramp Hi
+ 58  66  80	Gunmetal
+ 90 101 114	Pipe
+255 122  61	Ember
+ 20  16  10	Oil
+ 58  42  34	Hide
+106  90  74	Plate
+255 138  61	Eye
+ 78 224 106	Pop
+255  59  48	Banner A
+ 51 230 240	Banner B
+ 22  58  18	Liquid deep
+110 200  40	Liquid base
+200 255 106	Liquid foam
+  8   6  15	Void (outline)
+ 20  16  42	Shadow
+232 236 255	Starlight
+ 79 242 255	Player rim
+255  79 216	Enemy rim

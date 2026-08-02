@@ -1,0 +1,27 @@
+GIMP Palette
+Name: IMMRAM 4 · Mag Mell · Machaire
+#
+ 10  42  42	Ramp Shade
+ 15 122  69	Ramp Dark
+ 34 200 116	Ramp Base
+ 77 255 158	Ramp Light
+192 255 224	Ramp Hi
+110  68  40	Wood
+ 58  36  22	Bark
+ 47 122 192	Water
+ 74  52  32	Soil
+ 90  90  82	Rock
+ 58  74  34	Hide
+106 138  58	Moss
+255 225  79	Eye
+ 95 130 255	Pop
+ 31 191  95	Banner A
+255  62 201	Banner B
+ 10  42  74	Liquid deep
+ 47 122 192	Liquid base
+159 212 240	Liquid foam
+  8   6  15	Void (outline)
+ 20  16  42	Shadow
+232 236 255	Starlight
+ 79 242 255	Player rim
+255  79 216	Enemy rim

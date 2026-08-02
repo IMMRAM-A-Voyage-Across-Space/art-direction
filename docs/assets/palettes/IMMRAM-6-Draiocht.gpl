@@ -1,0 +1,26 @@
+GIMP Palette
+Name: IMMRAM 6 · Tír na nÓg · Draíocht
+#
+ 31  10  58	Ramp Shade
+106  31 168	Ramp Dark
+176  63 224	Ramp Base
+240 106 255	Ramp Light
+255 192 255	Ramp Hi
+255 159 224	Spore
+ 79 242 208	Bio-cyan
+214 106 156	Flesh
+ 90  74  42	Rot
+122  58 138	Creature flesh
+200 106 208	Membrane
+168 255  61	Eye
+255 226  74	Pop
+ 31 214 168	Banner A
+255 111 143	Banner B
+ 10  46  58	Liquid deep
+ 42 208 200	Liquid base
+159 240 232	Liquid foam
+  8   6  15	Void (outline)
+ 20  16  42	Shadow
+232 236 255	Starlight
+ 79 242 255	Player rim
+255  79 216	Enemy rim

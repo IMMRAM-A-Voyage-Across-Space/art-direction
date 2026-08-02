@@ -1,0 +1,25 @@
+GIMP Palette
+Name: IMMRAM 3 · Murias · Oighear
+#
+ 16  26  58	Ramp Shade
+ 42  95 168	Ramp Dark
+ 79 156 224	Ramp Base
+168 230 255	Ramp Light
+230 246 255	Ramp Hi
+238 246 255	Snow
+ 31  74 122	Deep ice
+ 58  66  80	Rock
+106 122 148	Hide
+174 191 212	Frost-skin
+168 246 255	Eye
+255 106 216	Pop
+ 46 139 255	Banner A
+255 138  30	Banner B
+ 10  50  48	Liquid deep
+ 34 184 168	Liquid base
+168 240 228	Liquid foam
+  8   6  15	Void (outline)
+ 20  16  42	Shadow
+232 236 255	Starlight
+ 79 242 255	Player rim
+255  79 216	Enemy rim

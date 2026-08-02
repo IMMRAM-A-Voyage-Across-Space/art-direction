@@ -4,6 +4,9 @@ The locked palette, cut into Procreate swatch sets. Generated from the
 same table the sprite validator enforces, so these cannot drift from
 [the palette](palette.md).
 
+Painting in Pixaki instead? The same nine sets are on the
+[Pixaki page](palette-pixaki.md).
+
 ## Download
 
 **[Everything in one zip](assets/palettes/IMMRAM-palettes.zip)** — or one at a time:
