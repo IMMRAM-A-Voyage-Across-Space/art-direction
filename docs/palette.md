@@ -2,6 +2,9 @@
 
 > The locked palette for IMMRAM. Every sprite colour must come from this set —
 > `tools/palette_check.py` in the game repo flags anything outside it.
+>
+> **Painting in Procreate?** The whole palette is packaged as importable swatch
+> sets — see [Palette · Procreate](palette-procreate.md).
 
 Palette/layer reference for IMMRAM (*A Voyage Across Space*; former working titles
 STARFALL / SpaceHeroes). Locks the palette and the rules
